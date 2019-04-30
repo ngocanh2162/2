@@ -6,7 +6,7 @@ from NLP2 import NLP2
 f_ask = open(os.path.join("data","ask","ask.txt"),encoding="utf8")
 f_ask3 = open(os.path.join("data","ask","ask3.txt"),encoding="utf8")
 
-dictionary_folder = 'E:\\project2\\data\\dictionary\\'
+dictionary_folder = 'data\\dictionary ' 
 dictionary_files = []
 # r=root, d=directories, f = dictionary_files
 for r, d, f in os.walk(dictionary_folder):
