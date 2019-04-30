@@ -3,10 +3,8 @@ import re
 from NLP import NLP
 from NLP2 import NLP2
 
-f_ask = open(os.path.join("data","sentences","ask","ask.txt"),encoding="utf8")
-f_ask3 = open(os.path.join("data","sentences","ask","ask3.txt"),encoding="utf8")
-loca3 = os.path.join("data","location","location3.txt")
-f_loca3 = open(loca3, 'w',encoding="utf8")  
+f_ask = open(os.path.join("data","ask","ask.txt"),encoding="utf8")
+f_ask3 = open(os.path.join("data","ask","ask3.txt"),encoding="utf8")
 
 dictionary_folder = 'E:\\project2\\data\\dictionary\\'
 dictionary_files = []
