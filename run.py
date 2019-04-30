@@ -1,12 +1,91 @@
 import os.path
 import re
-from NLP import NLP
-from NLP2 import NLP2
+from pyvi import ViTokenizer, ViPosTagger
+import settings
 
+
+class NLP(object):
+    def __init__(self, text = None):
+        self.text = text
+        self.__set_stopwords()
+
+    def segmentation(self):
+        return ViTokenizer.tokenize(self.text)
+
+    def __set_stopwords(self):
+        f_stopwords = open(os.path.join("data","vietnamese-stopwords-dash.txt"),encoding="utf8")
+        self.stopwords = f_stopwords.read()
+
+    def split_words(self):
+        text = self.segmentation()
+        try:
+            return [x.strip(settings.SPECIAL_CHARACTER).lower() for x in text.split()]
+        except TypeError:
+            return []
+            
+    def get_words(self):
+        split_words = self.split_words()
+        # return [word for word in split_words if word not in self.stopwords]
+        list1 = [] 
+        # atuple = [['V'], ['A']]
+        for word in split_words:
+            if word not in self.stopwords:
+                # if ViPosTagger.postagging(word)[1] not in atuple:
+                    list1.append(word)
+        return list1
+
+class NLP2(object):
+    def __init__(self, list1 = [], list2 = [], list3 =[]):
+        self.list1 = list1
+        self.list2 = list2
+        self.list3 = list3
+
+    def builDictionary(self):
+        list = self.list1
+        l = self.list2
+        f = self.list3
+        i = 0
+        l_leng = len(l)
+        while i <= len(list) - 2:
+            flag = True
+            for j in range (l_leng):
+                if list[i] in l[j]:
+                    flag = False
+                    if j in (0,1,7):  # tên city, district, street thì ko thêm tiền tố từ
+                        str1 = ''.join(list[i+1]) 
+                    else:    
+                        str1 = ''
+                        str1 += list[i] + '_' + list[i+1]        
+                    if str1 not in f[j]:
+                        f[j].append(str1)
+                    if list[i+1] in f[l_leng]:
+                        f[l_leng].remove(list[i+1])
+                    break
+            if flag == False:
+                i += 2
+            else:
+                for k in range (l_leng):
+                    if list[i] in f[k]:
+                        flag = False
+                        break
+                if flag == True:
+                    if list[i] not in f[l_leng]:
+                        f[l_leng].append(list[i])
+                flag = True
+                i += 1
+                if i == len(list)-1:
+                    for k in range (len(f)):
+                        if list[i] in f[k]:
+                            flag = False
+                            break
+                    if flag == True:
+                        f[l_leng].append(list[i])
+        return f
+    
 f_ask = open(os.path.join("data","ask","ask.txt"),encoding="utf8")
 f_ask3 = open(os.path.join("data","ask","ask3.txt"),encoding="utf8")
 
-dictionary_folder = 'data\\dictionary ' 
+dictionary_folder = 'E:\\2\\data\\dictionary' 
 dictionary_files = []
 # r=root, d=directories, f = dictionary_files
 for r, d, f in os.walk(dictionary_folder):
