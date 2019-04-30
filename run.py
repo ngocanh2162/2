@@ -3,7 +3,6 @@ import re
 from pyvi import ViTokenizer, ViPosTagger
 import settings
 
-
 class NLP(object):
     def __init__(self, text = None):
         self.text = text
