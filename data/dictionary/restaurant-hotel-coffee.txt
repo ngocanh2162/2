@@ -1,4 +1,5 @@
-siêu_thị_mediamart
-siêu_thị_điện_máy
+quán_cà_phê
 siêu_thị_media_mart
+siêu_thị_điện_máy
 nhà_hàng_sen
+siêu_thị_mediamart

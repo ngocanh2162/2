@@ -1,10 +1,10 @@
-trường_hà_châu_phong_đông
-trường_tiểu_học
-học_viện_hậu_cần
-trường_trung_học
 trường_đại_học
+trường_trung_học
+trường_trung_học_phổ_thông
+trường_phổ_thông
 học_viện_ngoại_giao
 trường_học_viện
 trường_mầm_non
-trường_trung_học_phổ_thông
-trường_phổ_thông
+trường_hà_châu_phong_đông
+trường_tiểu_học
+học_viện_hậu_cần
