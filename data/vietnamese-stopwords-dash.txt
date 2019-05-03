@@ -1942,6 +1942,7 @@ yêu_cầu
 ừ_ào
 ừ_ừ
 ử
+
 địa_điểm
 địa_chỉ
 vị_trí
@@ -1950,3 +1951,6 @@ tọa_độ
 dừng
 chỗ 
 nằm 
+lộ_trình
+hành_trình
+xuất_phát
