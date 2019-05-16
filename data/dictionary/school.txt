@@ -1,0 +1,10 @@
+trường_đại_học 160
+trường_trung_học 506
+trường_trung_học_phổ_thông 22
+trường_phổ_thông 24
+học_viện_ngoại_giao 2
+trường_học_viện 2
+trường_mầm_non 2
+trường_hà_châu_phong_đông 1
+trường_tiểu_học 1
+học_viện_hậu_cần 1

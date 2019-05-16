@@ -1,0 +1,4313 @@
+đi	V	O
+đến	V	O
+Ba_Vì	Np	B-LOC
+
+đi	V	O
+đến	E	O
+Ba	Np	B-LOC
+Vì	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+đi	V	O
+đến	E	O
+huyện	N	B-LOC
+Ba	Np	I-LOC
+Vì	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+đi	V	O
+đến	E	O
+huyện	N	B-LOC
+Ba	Np	I-LOC
+Vì	Np	I-LOC
+thành_phố	N	B-LOC
+Hà_Nội	Np	I-LOC
+
+cho	E	O
+đến	E	O
+huyện	N	B-LOC
+Ba	Np	I-LOC
+Vì	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+cho	E	O
+đến	E	O
+huyện	N	B-LOC
+Ba	Np	I-LOC
+Vì	Np	I-LOC
+thành_phố	N	B-LOC
+Hà_Nội	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+đến	E	O
+huyện	N	B-LOC
+Ba	Np	I-LOC
+Vì	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+đến	E	O
+Ba	Np	B-LOC
+Vì	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+cho	E	O
+tôi	P	O
+đến	V	O
+đến	E	O
+Ba	Np	B-LOC
+Vì	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+cho	E	O
+tôi	P	O
+đến	V	O
+đến	E	O
+huyện	N	B-LOC
+Ba	Np	I-LOC
+Vì	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+đến	E	O
+Vạn_Thắng	Np	B-LOC
+Ba_Vì	Np	I-LOC
+
+đến	E	O
+xã	N	B-LOC
+Vạn_Thắng	Np	I-LOC
+huyện	N	B-LOC
+Ba_Vì	Np	I-LOC
+
+cho	E	O
+tôi	P	O
+đến	V	O
+Vạn_Thắng	Np	B-LOC
+Ba_Vì	Np	I-LOC
+
+đi	V	O
+đến	V	O
+Vạn_Thắng	Np	B-LOC
+Ba_Vì	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+đến	V	O
+Vạn_Thắng	Np	B-LOC
+Ba_Vì	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Vạn_Thắng	Np	I-LOC
+huyện	N	B-LOC
+Ba_Vì	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Vạn_Thắng	Np	I-LOC
+Ba_Vì	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Vạn_Thắng	Np	I-LOC
+huyện	N	B-LOC
+Ba_Vì	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+đến	V	O
+Quốc_Oai	Np	B-LOC
+Quốc_Oai	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+huyện	N	B-LOC
+Quốc_Oai	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+Quốc_Oai	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+huyện	N	B-LOC
+Quốc_Oai	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+huyện	N	B-LOC
+Quốc_Oai	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+Quốc_Oai	Np	B-LOC
+Quốc_Oai	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+Quốc_Oai	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+Quốc_Oai	Np	B-LOC
+huyện	N	B-LOC
+Quốc_Oai	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+huyện	N	B-LOC
+Quốc_Oai	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+Quốc_Oai	Np	B-LOC
+Quốc_Oai	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+Quốc_Oai	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Quốc_Oai	Np	B-LOC
+Quốc_Oai	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+Quốc_Oai	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Quốc_Oai	Np	B-LOC
+huyện	N	B-LOC
+Quốc_Oai	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+thị_trấn	N	B-LOC
+Quốc_Oai	Np	I-LOC
+huyện	N	B-LOC
+Quốc_Oai	Np	I-LOC
+
+hành_trình	N	O
+Ninh_Sở	Np	B-LOC
+Thường_Tín	Np	I-LOC
+
+hành_trình	N	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+
+hành_trình	N	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+hành_trình	N	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+như	C	O
+nào	P	O
+
+hành_trình	N	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+sao_đây	M	O
+
+Đến	E	O
+Ninh_Sở	Np	B-LOC
+Thường_Tín	Np	I-LOC
+sao_đây	M	O
+
+Đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+sao_đây	M	O
+
+Đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+huyện	N	B-LOC
+Thường_Tín	M	I-LOC
+sao_đây	M	O
+
+Đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+Hà_Nội	Np	I-LOC
+sao_đây	M	O
+
+không	R	O
+biết	V	O
+đường	N	O
+đến	V	O
+Ninh_Sở	Np	B-LOC
+Thường_Tín	Np	I-LOC
+
+không	R	O
+biết	V	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+
+không	R	O
+biết	V	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+
+không	R	O
+biết	V	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+chẳng	R	O
+biết	V	O
+đường	N	O
+đến	V	O
+Ninh_Sở	Np	B-LOC
+Thường_Tín	Np	I-LOC
+
+chẳng	R	O
+biết	V	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+
+chẳng	R	O
+biết	V	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+alo	N	O
+đường	N	O
+đến	V	O
+Ninh_Sở	Np	B-LOC
+Thường_Tín	Np	I-LOC
+
+alo	N	O
+đường	N	O
+tới	V	O
+Ninh_Sở	Np	B-LOC
+Thường_Tín	Np	I-LOC
+
+alo	N	O
+đường	N	O
+đến	E	O
+Ninh_Sở	Np	B-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+
+alo	N	O
+đường	N	O
+tới	E	O
+Ninh_Sở	Np	B-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+
+alo	N	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+
+alo	N	O
+đường	N	O
+đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+
+alo	N	O
+đường	N	O
+tới	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+
+đi	V	O
+ngay	T	O
+đến	E	O
+Ninh_Sở	Np	B-LOC
+Thường_Tín	Np	I-LOC
+
+đi	V	O
+ngay	T	O
+đến	E	O
+xã	N	B-LOC
+Ninh_Sở	Np	I-LOC
+Thường_Tín	Np	I-LOC
+
+đi	V	O
+ngay	T	O
+đến	E	O
+Ninh_Sở	Np	B-LOC
+huyện	N	B-LOC
+Thường_Tín	Np	I-LOC
+
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Đến	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+cho	E	O
+tôi	P	O
+đến	V	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+đi	V	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa_Hà_Nội	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa_Hà_Nội	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa_Hà_Nội	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa_Hà_Nội	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa_Hà_Nội	Np	I-LOC
+
+về	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+về	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+cho	E	O
+về	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+đi	V	O
+về	V	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+tới	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+tới	E	O
+xã_viên	N	B-LOC
+an	V	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+làm_sao	N	O
+để	E	O
+đến	V	O
+viên	V	B-LOC
+an	V	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+làm_sao	N	O
+để	E	O
+tới	V	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+làm_sao	N	O
+để	E	O
+tới	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+làm_sao	N	O
+để	E	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+cho	E	O
+hỏi	V	O
+đường	N	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+cho	E	O
+hỏi	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+Đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa_đi	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+Đến	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đường	N	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa_như	Np	I-LOC
+nào	P	O
+
+đường	N	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+như	C	O
+sao	P	O
+
+Đến	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa_bằng	N	I-LOC
+cách	N	O
+nào	P	O
+
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa_sao	Np	I-LOC
+đây	P	O
+
+xã_viên	N	O
+an	N	O
+huyện	N	B-LOC
+Ứng_Hòa_đi	Np	I-LOC
+như	C	O
+nào	P	O
+
+tôi	P	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa_Hà_Nội	Np	I-LOC
+bằng	E	O
+cách	N	O
+nào	P	O
+
+lộ_trình	N	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+lộ_trình	N	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+lộ_trình	N	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa	N	I-LOC
+như	C	O
+thế_nào	M	O
+
+lộ_trình	N	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa_như	N	I-LOC
+nào	P	O
+
+lộ_trình	N	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa_sao	Np	I-LOC
+đây	P	O
+
+hành_trình	N	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+hành_trình	N	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+hành_trình	N	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa	N	I-LOC
+như	C	O
+thế_nào	M	O
+
+hành_trình	N	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa_như	N	I-LOC
+nào	P	O
+
+hành_trình	N	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa_sao	Np	I-LOC
+đây	P	O
+
+Đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa_sao	Np	I-LOC
+đây	P	O
+
+Đến	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa_sao	Np	I-LOC
+đây	P	O
+
+Đến	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa_sao	Np	I-LOC
+đây	P	O
+
+Đến	E	O
+xã_viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa_Hà_Nội	M	I-LOC
+sao_đây	M	O
+
+không	R	O
+biết	V	O
+đường	N	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+không	R	O
+biết	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+không	R	O
+biết	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+không	R	O
+biết	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+Ứng_Hòa_Hà_Nội	Np	I-LOC
+
+chẳng	R	O
+biết	V	O
+đường	N	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+chẳng	R	O
+biết	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+chẳng	R	O
+biết	V	O
+đường	N	O
+đến	V	O
+xã_viên	V	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa_Hà_Nội	Np	I-LOC
+
+alo	N	O
+đường	N	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+alo	N	O
+đường	N	O
+tới	E	O
+viên	N	B-LOC
+an	N	I-LOC
+Ứng_Hòa	Np	I-LOC
+
+alo	N	O
+đường	N	O
+đến	E	O
+viên	N	B-LOC
+an	N	I-LOC
+huyện	N	B-LOC
+Ứng_Hòa	Np	I-LOC
+
+Đi	V	O
+đến	E	O
+đại_học	N	B-LOC
+Bách_Khoa	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+đi	V	O
+đến	V	O
+Bách_Khoa	Np	B-LOC
+
+đi	V	O
+đến	V	O
+trường	N	B-LOC
+đại_học	N	I-LOC
+Bách_Khoa	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+đến	V	O
+Bách_Khoa	Np	B-LOC
+
+đường	N	O
+đi	V	O
+đến	E	O
+Bách_Khoa	Np	B-LOC
+
+đường	N	O
+ngắn	A	O
+nhất	R	O
+đi	V	O
+đến	V	O
+Bách_Khoa	Np	B-LOC
+
+đưa	V	O
+tôi	P	O
+đến	V	O
+Bách_Khoa	Np	B-LOC
+
+chỉ	R	O
+cho	E	O
+tôi	P	O
+đường	N	O
+đến	V	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+đi	V	O
+về	V	O
+Bách_Khoa	Np	B-LOC
+
+lộ_trình	N	O
+đi	V	O
+đến	V	O
+trường	N	B-LOC
+đại_học	N	I-LOC
+Kinh_tế	Np	I-LOC
+Quốc_dân	Np	I-LOC
+
+hành_trình	N	O
+đi	V	O
+đến	V	O
+trường	N	B-LOC
+xây_dựng	M	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	V	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+đến	E	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+đến	E	O
+Bách_Khoa	Np	B-LOC
+
+về	E	O
+Bách_Khoa	Np	B-LOC
+
+về	E	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+Làm_sao	Np	O
+để	E	O
+tới	V	O
+Bách_Khoa	Np	B-LOC
+
+Làm_sao	Np	O
+để	E	O
+tới	V	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+làm_sao	N	O
+đến	V	O
+Bách_Khoa	Np	B-LOC
+
+đến	E	O
+Bách_Khoa	Np	B-LOC
+bằng	E	O
+đường	N	O
+nào	P	O
+
+đến	E	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+bằng	E	O
+đường	N	O
+nào	P	O
+
+tới	E	O
+Bách_Khoa	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+tới	E	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+về	E	O
+Bách_Khoa	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+về	E	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đưa	V	O
+tôi	P	O
+về	V	O
+Bách_Khoa	Np	B-LOC
+
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+từ	E	O
+đây	P	O
+đến	E	O
+Bách_Khoa	Np	B-LOC
+
+từ	E	O
+đây	P	O
+đến	E	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+cho	E	O
+về	V	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+cho	E	O
+về	V	O
+Bách_Khoa	Np	B-LOC
+
+đường	N	O
+tới	V	O
+Bách_Khoa	Np	B-LOC
+
+đường	N	O
+tới	V	O
+Bách_Khoa	Np	B-LOC
+Hà_Nội	Np	I-LOC
+
+Đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+Bách_Khoa	Np	B-LOC
+
+từ	E	O
+đây	P	O
+ra	V	O
+Bách_Khoa	Np	B-LOC
+
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Bách_Khoa	Np	B-LOC
+
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+trường	N	B-LOC
+Bách_Khoa	Np	I-LOC
+Hà_Nội	Np	I-LOC
+
+đường	N	O
+về	V	O
+Bách_Khoa	Np	B-LOC
+
+đi	V	O
+từ	E	O
+Minh_Khai	Np	B-LOC
+đến	E	O
+Cầu_Giấy	Np	B-LOC
+
+lộ_trình	N	O
+đi	V	O
+từ	E	O
+Minh_Khai	Np	B-LOC
+đến	E	O
+Cầu_Giấy	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Lê_Thanh_Nghị	Np	B-LOC
+đến	V	O
+sân	N	B-LOC
+vận_động	N	I-LOC
+Mỹ_Đình	Np	I-LOC
+
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+Bạch_Mai	Np	B-LOC
+ra	V	O
+Cầu_Giấy	Np	B-LOC
+
+đường	N	O
+đi	V	O
+từ	E	O
+Bạch_Mai	Np	B-LOC
+ra	V	O
+Cầu_Giấy	Np	B-LOC
+
+đi	V	O
+từ	E	O
+Bạch_Mai	Np	B-LOC
+sang	V	O
+quận	N	B-LOC
+Mỹ_Đình	Np	I-LOC
+
+đi	V	O
+từ	E	O
+123	N	B-LOC
+Bạch_Mai	Np	I-LOC
+đến	E	O
+124	N	B-LOC
+Cầu_Giấy	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+Bạch_Mai	Np	B-LOC
+sang	V	O
+Cầu_Giấy	Np	B-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+phố	N	B-LOC
+Bạch_Mai	Np	I-LOC
+sang	V	O
+Cầu_Giấy	Np	B-LOC
+
+đường	N	O
+đi	V	O
+từ	E	O
+phố	N	B-LOC
+Bạch_Mai	Np	I-LOC
+đến	E	O
+đường	N	B-LOC
+Cầu_Giấy	Np	I-LOC
+
+đi	V	O
+từ	E	O
+Bạch_Mai	Np	B-LOC
+sang	V	O
+cầu	V	B-LOC
+giấy	V	I-LOC
+bằng	E	O
+cách	N	O
+nào	P	O
+
+Bạch_Mai	Np	B-LOC
+với	E	O
+cầu	N	B-LOC
+giấy	N	I-LOC
+cách	V	O
+nhau	N	O
+bao_nhiêu	M	O
+km	Nu	O
+
+khoảng_cách	N	O
+giữa	N	O
+Bạch_Mai	Np	B-LOC
+và	C	O
+Cầu_Giấy	Np	B-LOC
+
+đi	V	O
+từ	E	O
+Bạch_Mai	Np	B-LOC
+đến	E	O
+Cầu	Np	B-LOC
+Giấy	Np	I-LOC
+bao_nhiêu	M	O
+km	Nu	O
+
+ngách	N	B-LOC
+18	M	I-LOC
+ngõ	N	B-LOC
+187	V	I-LOC
+phố	N	B-LOC
+Hồng_Mai	Np	I-LOC
+đến	E	O
+123	N	B-LOC
+Kim_Mã	Np	I-LOC
+
+Từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+Kim_Mã	Np	B-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+Kim_Mã	Np	B-LOC
+
+đi	V	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+kim	N	B-LOC
+mã	V	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+đến	E	O
+Kim_Mã	Np	B-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+đến	E	O
+Kim_Mã	Np	B-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+đến	E	O
+Kim_Mã	Np	B-LOC
+
+Từ	E	O
+Thanh_Nhàn	Np	B-LOC
+đến	E	O
+Kim_Mã	Np	B-LOC
+
+Thanh_Nhàn	Np	B-LOC
+đến	V	O
+Kim_Mã	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+Kim_Mã	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+đến	E	O
+Kim_Mã	Np	B-LOC
+
+phố	N	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+phố	N	B-LOC
+Kim_Mã	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+Kim_Mã	Np	B-LOC
+
+Từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+Kim_Mã	Np	B-LOC
+hết	V	O
+bao_nhiêu	M	O
+km	Nu	O
+
+đi	V	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+kim	N	B-LOC
+mã	V	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+Kim_Mã	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+10	M	I-LOC
+Thành_Nhàn	Np	I-LOC
+sang	V	O
+310	N	B-LOC
+Kim_Mã	Np	I-LOC
+
+đường	N	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+sang	V	O
+kim	N	B-LOC
+
+hàng	N	O
+trình	V	O
+từ	E	O
+Kim_Mã	Np	B-LOC
+Sang	Np	O
+Thanh_Nhàn	Np	B-LOC
+
+số	N	B-LOC
+10	M	I-LOC
+Kim_Mã	Np	I-LOC
+đến	V	O
+200	M	B-LOC
+Thanh_Nhàn	Np	I-LOC
+
+từ	E	O
+Kim_Mã	Np	B-LOC
+Sang	Np	O
+Thanh_Nhàn	Np	B-LOC
+đi	V	O
+kiểu	N	O
+gì	P	O
+
+từ	E	O
+Kim_Mã	Np	B-LOC
+Sang	Np	O
+Thanh_Nhàn	Np	B-LOC
+thế_nào	M	O
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Thanh_Nhàn	Np	B-LOC
+đến	E	O
+Kim_Mã	Np	B-LOC
+
+Xã	N	B-LOC
+Đàn	Np	I-LOC
+đến	V	O
+Giáp_Bát	Np	B-LOC
+
+đi	V	O
+từ	E	O
+xã	N	B-LOC
+đàn	N	I-LOC
+đến	E	O
+Giáp_Bát	Np	B-LOC
+
+Xã	N	B-LOC
+Đàn	Np	I-LOC
+đến	E	O
+Giáp_Bát	Np	B-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+đường	N	O
+đi	V	O
+từ	E	O
+xã	N	B-LOC
+đàn	N	I-LOC
+đến	E	O
+Giáp_Bát	Np	B-LOC
+
+Xã	N	B-LOC
+Đàn	Np	I-LOC
+đi	V	O
+Giáp_Bát	Np	B-LOC
+
+đi	V	O
+về	V	O
+hướng	N	O
+Xã_Đàn	Np	B-LOC
+
+đi	V	O
+từ	E	O
+xã	N	B-LOC
+đàn	N	I-LOC
+sang	V	O
+Giáp_Bát	Np	B-LOC
+kiểu	N	O
+gì	P	O
+
+từ	E	O
+Giáp_Bát	Np	B-LOC
+sang	V	O
+Xã	Np	B-LOC
+Đàn	Np	I-LOC
+hết	V	O
+bao_nhiêu	M	O
+km	Nu	O
+
+đường	N	O
+đi	V	O
+ngay_ngắn	A	O
+nhất	R	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+đi	V	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+sang	V	O
+Xã	Np	B-LOC
+Đàn	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+chỉ	V	O
+đường	N	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+Giáp_Bát	Np	B-LOC
+đến	V	O
+Xã_Đàn	Np	B-LOC
+
+đi	V	O
+Giáp_Bát	Np	B-LOC
+tới	V	O
+Xã_Đàn	Np	B-LOC
+
+đi	V	O
+Giáp_Bát	Np	B-LOC
+tới	V	O
+Xã	Np	B-LOC
+Đàn	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+Xã	N	B-LOC
+Đàn	Np	I-LOC
+tới	V	O
+Giáp_Bát	Np	B-LOC
+
+từ	E	O
+Xã	Np	B-LOC
+Đàn	Np	I-LOC
+đến	E	O
+Giáp_Bát	Np	B-LOC
+thì	C	O
+đi	V	O
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+xã	N	B-LOC
+đàn	N	I-LOC
+tới	E	O
+Giáp_Bát	Np	B-LOC
+
+đi	V	O
+kiểu	N	O
+gì	P	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+tới	E	O
+Xã_Đàn	Np	B-LOC
+
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã	Np	B-LOC
+Đàn	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+chỉ	R	O
+ra	V	O
+đường	N	O
+đi	V	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+Giáp_Bát	Np	B-LOC
+đến	V	O
+Xã	Np	B-LOC
+Đàn	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+xã	N	B-LOC
+Bàn	Np	I-LOC
+đến	E	O
+Giáp_Bát	Np	B-LOC
+đi	V	O
+kiểu	N	O
+gì	P	O
+
+Giáp_Bát	N	B-LOC
+tới	E	O
+Xã	Np	B-LOC
+Đàn	Np	I-LOC
+đi	V	O
+bằng	E	O
+đường	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+xã	N	B-LOC
+đàn	N	I-LOC
+về	E	O
+Giáp_Bát	Np	B-LOC
+
+qua	V	O
+Giáp_Bát	Np	B-LOC
+đến	V	O
+Xã_Đàn	Np	B-LOC
+
+hành_trình	N	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+chỉ	R	O
+đường	N	O
+lái_xe	V	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+Chỉ	R	O
+đường	N	O
+đi	V	O
+bộ	N	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+đi	V	O
+xe	N	O
+từ	E	O
+Giáp_Bát	Np	B-LOC
+đến	E	O
+Xã_Đàn	Np	B-LOC
+
+Đi	V	O
+từ	E	B-LOC
+đây	P	I-LOC
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+từ	E	O
+đây	P	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+Đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+Từ	E	O
+đây	P	O
+về	E	O
+Giáp_Bát	Np	B-LOC
+
+Đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+Giáp_Bát	Np	B-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+tới	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+tới	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+về	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+Từ	E	O
+đây	P	O
+tới	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+từ	E	O
+đây	P	O
+tới	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+từ	E	O
+đây	P	O
+tới	E	O
+bến_xe	N	B-LOC
+bát	N	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+như	C	O
+thế_nào	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+kiểu	N	O
+gì	P	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+đi	V	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+tới	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+tới	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+hành_trình	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+đường	N	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+đi	V	O
+những	L	O
+đường	N	O
+nào	P	O
+
+những	L	O
+đường	N	O
+có_thể	N	O
+đi	V	O
+được	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	I-LOC
+
+những	L	O
+đường	N	O
+có_thể	N	O
+đi	V	O
+được	V	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+bến_xe	N	B-LOC
+Giáp_Bát	Np	O
+
+Đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+từ	E	O
+đây	P	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+Đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+Từ	E	O
+đây	P	O
+về	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+tới	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+tới	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+về	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+Từ	E	O
+đây	P	O
+tới	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+từ	E	O
+đây	P	O
+tới	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+như	C	O
+thế_nào	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+kiểu	N	O
+gì	P	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+đi	V	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+tới	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+tới	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+hành_trình	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+đường	N	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+đi	V	O
+những	L	O
+đường	N	O
+nào	P	O
+
+những	L	O
+đường	N	O
+có_thể	N	O
+đi	V	O
+được	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+những	L	O
+đường	N	O
+có_thể	N	O
+đi	V	O
+được	V	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+công_viên	N	B-LOC
+Thống_Nhất	Np	I-LOC
+
+Từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+ngã	P	B-LOC
+tư	M	I-LOC
+Sở	N	I-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+đi	V	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+ngã	P	B-LOC
+tư	M	I-LOC
+sở	N	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+đến	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+đến	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+đến	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+Từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+đến	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+Trần_Duy_Hưng	Np	B-LOC
+đến	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+đến	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+phố	N	B-LOC
+Trần_Duy_Hưng	Np	I-LOC
+sang	V	O
+phố	N	B-LOC
+Ngã	Np	I-LOC
+Tư_Sở	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+Từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+ngã	P	B-LOC
+tư	M	I-LOC
+sở	N	I-LOC
+hết	V	O
+bao_nhiêu	M	O
+km	Nu	O
+
+đi	V	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+ngã	P	B-LOC
+tư	M	I-LOC
+Sở	N	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+20	M	B-LOC
+Ngã	Np	I-LOC
+Tư_Sở	Np	I-LOC
+sang	V	O
+400	N	B-LOC
+Trần_Duy_Hưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+ngã	P	B-LOC
+tư	M	I-LOC
+Sở	N	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+10	M	I-LOC
+Trần_Duy_Hưng	Np	I-LOC
+sang	V	O
+310	N	B-LOC
+Ngã	Np	I-LOC
+Tư_Sở	Np	I-LOC
+
+đường	N	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+sang	V	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+hàng	N	O
+trình	V	O
+từ	E	O
+ngã	P	B-LOC
+tư	M	I-LOC
+sở	N	I-LOC
+Sang	N	O
+Trần_Duy_Hưng	N	I-LOC
+
+số	N	B-LOC
+10	M	I-LOC
+ngã	P	I-LOC
+tư	M	I-LOC
+sở	N	I-LOC
+đến	E	O
+200	M	B-LOC
+Trần_Duy_Hưng	Np	I-LOC
+
+từ	E	O
+ngã	P	B-LOC
+tư	M	I-LOC
+sở	N	I-LOC
+sang	V	O
+Trần_Duy_Hưng	Np	B-LOC
+đi	V	O
+kiểu	N	O
+gì	P	O
+
+từ	E	O
+ngã	P	B-LOC
+tư	M	I-LOC
+sở	N	I-LOC
+sang	V	O
+Trần_Duy_Hưng_thế_nào	Np	B-LOC
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Trần_Duy_Hưng	Np	B-LOC
+đến	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+đến	V	O
+Trần_Duy_Hưng	Np	B-LOC
+
+Trần_Duy_Hưng	Np	B-LOC
+đến	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+
+Trần_Duy_Hưng	N	B-LOC
+tới	E	O
+ngã	P	B-LOC
+tư	M	I-LOC
+Sở	N	I-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+đến	V	O
+Trần_Duy_Hưng	Np	B-LOC
+
+từ	E	O
+245	N	B-LOC
+Trần_Duy_Hưng	Np	I-LOC
+đến	E	O
+số	N	B-LOC
+8	M	I-LOC
+Ngã	Np	I-LOC
+Tư_Sở	Np	I-LOC
+
+đường	N	O
+đi	V	O
+từ	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+đến	V	O
+Trần_Duy_Hưng	Np	B-LOC
+
+đi	V	O
+kiểu	N	O
+gì	P	O
+từ	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+đến	V	O
+Trần_Duy_Hưng	Np	B-LOC
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Ngã	Np	B-LOC
+Tư_Sở	Np	I-LOC
+đến	V	O
+Trần_Duy_Hưng	Np	B-LOC
+
+Đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+từ	E	O
+đây	P	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+như	C	O
+thế_nào	N	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+về	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+từ	E	O
+đây	P	O
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+đi	V	O
+Từ	E	O
+đây	P	O
+về	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+từ	E	O
+đây	P	O
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+Từ	E	O
+đây	P	O
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+như	C	O
+thế_nào	N	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+như	C	O
+thế_nào	V	O
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+kiểu	N	O
+gì	P	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+đi	V	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+hành_trình	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+đường	N	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+đi	V	O
+những	L	O
+đường	N	O
+nào	P	O
+
+những	L	O
+đường	N	O
+có_thể	N	O
+đi	V	O
+được	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+những	L	O
+đường	N	O
+có_thể	N	O
+đi	V	O
+được	V	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+từ	E	O
+đây	P	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+có	V	O
+những	L	O
+đường	N	O
+nào	P	O
+
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+quận	N	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đường	N	O
+đi	V	O
+có_thể	V	O
+đến	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+tới	E	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+từ	E	O
+đây	P	O
+đi	V	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	N	O
+đi	V	O
+phố	N	B-LOC
+Huế	Np	I-LOC
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+nhà	N	I-LOC
+100	M	I-LOC
+ngõ	N	B-LOC
+10	M	I-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+đến	E	O
+86	N	B-LOC
+Chùa_Bộc	Np	I-LOC
+
+26	N	B-LOC
+Chùa	Np	I-LOC
+Bộc_đi	Np	I-LOC
+84	M	I-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+
+32	N	B-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+đến	V	O
+100	M	B-LOC
+Chùa_Bộc	Np	I-LOC
+
+số	N	B-LOC
+nhà	N	I-LOC
+75	N	I-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+đi	V	O
+đến	E	O
+số	N	B-LOC
+70	M	I-LOC
+ngõ	N	B-LOC
+96	N	I-LOC
+Chùa_Bộc	Np	I-LOC
+
+số	N	B-LOC
+12	M	I-LOC
+ngách	N	B-LOC
+18	M	I-LOC
+ngõ	N	B-LOC
+187	N	I-LOC
+Phạm_Ngọc_Thạch	Np	I-LOC
+đến	E	O
+10	M	B-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+
+65/56	N	B-LOC
+Nguyễn_Hiền	Np	I-LOC
+đến	E	O
+25	M	B-LOC
+Chùa_Bộc	Np	I-LOC
+
+từ	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+Sang	Np	O
+Chùa	Np	B-LOC
+Bộc_đi	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+Sang	Np	O
+Chùa_Bộc	Np	B-LOC
+
+đi	V	O
+từ	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+Sang	Np	O
+Chùa	Np	B-LOC
+Bộc	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+Tôn_Thất_Tùng	Np	B-LOC
+đến	V	O
+Chùa_Bộc	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+Sang	Np	O
+Chùa_Bộc	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+phố	N	O
+Tôn_Thất_Tùng	Np	B-LOC
+Sang	Np	O
+Phố_Chùa_Bộc	Np	B-LOC
+
+đường	N	O
+từ	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+tới	E	O
+chùa	N	B-LOC
+Bộc	Np	I-LOC
+
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+chùa	N	B-LOC
+Bộc_hết	Np	I-LOC
+bao_nhiêu	M	O
+km	Nu	O
+
+đi	V	O
+từ	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+Sang	Np	O
+Chùa	Np	B-LOC
+Bộc	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+85	N	B-LOC
+Chùa_Bộc	Np	I-LOC
+đến	V	O
+100	M	B-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+Chùa_Bộc	Np	B-LOC
+đến	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+10	M	I-LOC
+Chùa_Bộc	Np	I-LOC
+đến	E	O
+30	M	B-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đường	N	O
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+tới	E	O
+chùa	N	B-LOC
+Bộc	Np	I-LOC
+
+hành_trình	N	O
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+số	N	B-LOC
+10	M	I-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+đến	V	O
+200	M	B-LOC
+Chùa_Bộc	Np	I-LOC
+
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+chùa	N	B-LOC
+Bộc	Np	I-LOC
+đi	V	O
+kiểu	N	O
+gì	P	O
+
+từ	E	O
+Chùa	Np	B-LOC
+Bộc	Np	I-LOC
+sang	V	O
+Tôn_Thất_Tùng	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+Chùa_Bộc	Np	B-LOC
+đến	V	O
+Tôn_Thất_Tùng	Np	B-LOC
+
+Tôn_Thất_Tùng	Np	B-LOC
+đến	V	O
+Chùa_Bộc	Np	B-LOC
+
+Tôn_Thất_Tùng	N	B-LOC
+tới	V	O
+Chùa_Bộc	Np	B-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+từ	E	O
+245	N	B-LOC
+Chùa_Bộc	Np	I-LOC
+đến	E	O
+số	N	B-LOC
+8	M	I-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+
+đường	N	O
+đi	V	O
+từ	E	O
+tôn	N	B-LOC
+thất_tùng	V	I-LOC
+đến	E	O
+Chùa_Bộc	Np	B-LOC
+
+đi	V	O
+kiểu	N	O
+gì	P	O
+từ	E	O
+Chùa_Bộc	Np	B-LOC
+đến	E	O
+Tôn_Thất_Tùng	Np	B-LOC
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Chùa	Np	B-LOC
+Bộc	Np	I-LOC
+sang	V	O
+Tôn_Thất_Tùng	Np	B-LOC
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+nhà	N	I-LOC
+2	M	I-LOC
+ngõ	N	B-LOC
+96	N	I-LOC
+Thái_Hà	Np	I-LOC
+đến	E	O
+ngõ	N	B-LOC
+75	N	I-LOC
+Chùa_Bộc	Np	I-LOC
+
+75	N	B-LOC
+Thái_Hà	Np	I-LOC
+tới	E	O
+96	N	B-LOC
+Nguyễn_Trãi	Np	I-LOC
+
+Nguyễn_Trãi	Np	B-LOC
+đi	V	O
+Thái_Hà	Np	B-LOC
+
+32	N	B-LOC
+Nguyễn_Trãi	Np	I-LOC
+đến	E	O
+12	M	B-LOC
+Thái_Hà	Np	I-LOC
+
+số	N	B-LOC
+8	M	I-LOC
+trên	E	I-LOC
+85	N	I-LOC
+Nguyễn_Trãi	Np	I-LOC
+đi	V	O
+đến	E	O
+số	N	B-LOC
+7	M	I-LOC
+ngõ	N	B-LOC
+10	M	I-LOC
+Thái_Hà	Np	I-LOC
+
+số	N	B-LOC
+nhà	N	I-LOC
+75	N	I-LOC
+Thái_Hà	Np	I-LOC
+đi	V	O
+đến	E	O
+số	N	B-LOC
+68	M	I-LOC
+ngõ	N	B-LOC
+121	N	I-LOC
+Nguyễn_Trãi	Np	I-LOC
+
+số	N	B-LOC
+17	M	I-LOC
+ngõ	N	B-LOC
+146	N	I-LOC
+Thái_Hà	Np	I-LOC
+đến	E	O
+số	N	B-LOC
+8	M	I-LOC
+Ngách	Np	B-LOC
+10	M	I-LOC
+Ngõ	N	B-LOC
+200	M	I-LOC
+Nguyễn_Trãi	Np	I-LOC
+
+20/32	N	B-LOC
+Nguyễn_Trãi	Np	I-LOC
+đến	V	O
+Thái_Hà	Np	B-LOC
+
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+sang	V	O
+Thái_Hà	Np	B-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+sang	V	O
+Thái_Hà	Np	B-LOC
+
+đi	V	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+sang	V	O
+Thái_Hà	Np	B-LOC
+nhà	N	O
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+đến	E	O
+Thái_Hà	Np	B-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+đến	E	O
+Thái_Hà	Np	B-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+đến	E	O
+Thái_Hà	Np	B-LOC
+
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+đến	E	O
+Thái_Hà	Np	B-LOC
+
+Nguyễn_Trãi	Np	B-LOC
+đến	V	O
+Thái_Hà	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+sang	V	O
+Thái_Hà	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+đến	E	O
+Thái_Hà	Np	B-LOC
+
+phố	N	B-LOC
+Nguyễn_Trãi	Np	I-LOC
+sang	V	O
+phố	N	B-LOC
+Thái_Hà	Np	I-LOC
+
+Nguyễn_Trãi	Np	B-LOC
+Thanh_Xuân	Np	I-LOC
+đến	V	O
+Thái_Hà	Np	B-LOC
+
+đi	V	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+quận	N	B-LOC
+Thanh_xuân	Np	I-LOC
+đến	E	O
+quận	N	B-LOC
+Đống_Đa	Np	I-LOC
+
+đi	V	O
+từ	E	O
+Thái_Hà	Np	B-LOC
+đến	E	O
+Nguyễn_Trãi	Np	B-LOC
+
+từ	E	O
+Thái_Hà	Np	B-LOC
+đến	E	O
+Nguyễn_Trãi	Np	B-LOC
+hết	V	O
+bao_nhiêu	M	O
+km	Nu	O
+
+đi	V	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+Thanh_Xuân_Sang	Np	I-LOC
+Thái_Hà	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+85	N	B-LOC
+Nguyễn_Trãi	Np	I-LOC
+đến	V	O
+100	M	B-LOC
+Thái_Hà	Np	I-LOC
+
+đi	V	O
+từ	E	O
+phố	N	B-LOC
+Thái_Hà	Np	I-LOC
+quận	N	B-LOC
+Đống_Đa	Np	I-LOC
+đến	E	O
+Nguyễn_Trãi	Np	B-LOC
+Thanh_Xuân	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+10	M	I-LOC
+Thái_Hà	Np	I-LOC
+đến	E	O
+30	M	B-LOC
+Nguyễn_Trãi	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đường	N	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+tới	E	O
+Thái_Hà	Np	B-LOC
+
+hành_trình	N	O
+từ	E	O
+Thái_Hà	Np	B-LOC
+đến	E	O
+Nguyễn_Trãi	Np	B-LOC
+
+số	N	B-LOC
+10	M	I-LOC
+Thái_Hà	Np	I-LOC
+đến	V	O
+200	M	B-LOC
+Nguyễn_Trãi	Np	I-LOC
+
+Từ	E	O
+Thái_Hà	Np	B-LOC
+đi	V	O
+Nguyễn_Trãi	Np	B-LOC
+kiểu	N	O
+gì	P	O
+
+từ	E	O
+Thái_Hà	Np	B-LOC
+sang	V	O
+Nguyễn_Trãi	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+đến	E	O
+Thái_Hà	Np	B-LOC
+
+Thái_Hà	Np	B-LOC
+đến	V	O
+Nguyễn_Trãi	Np	B-LOC
+
+Nguyễn_Trãi	Np	B-LOC
+đến	V	O
+Thái_Hà	Np	B-LOC
+
+Nguyễn_Trãi	N	B-LOC
+tới	V	O
+Thái_Hà	Np	B-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+đến	E	O
+Thái_Hà	Np	B-LOC
+
+từ	E	O
+245	N	B-LOC
+Thái_Hà	Np	B-LOC
+đến	E	O
+số	N	B-LOC
+8	M	I-LOC
+Nguyễn_Trãi	Np	I-LOC
+
+đường	N	O
+đi	V	O
+từ	E	O
+Nguyễn_Trãi	Np	B-LOC
+đến	E	O
+Thái_Hà	Np	B-LOC
+
+đi	V	O
+kiểu	N	O
+gì	P	O
+từ	E	O
+Thái_Hà	Np	B-LOC
+đến	E	O
+Nguyễn_Trãi	Np	B-LOC
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Thái_Hà	Np	B-LOC
+sang	V	O
+Nguyễn_Trãi	Np	B-LOC
+
+đi	V	O
+đến	V	O
+Đại_Cồ_Việt	Np	B-LOC
+
+đi	V	O
+đến	E	O
+Đại_Cồ_Việt	Np	B-LOC
+quận	N	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+đến	V	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+tới	E	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+tới	E	O
+số	N	B-LOC
+1	M	I-LOC
+Đại_Cồ_Việt	Np	I-LOC
+
+đến	E	O
+số	N	B-LOC
+1	M	I-LOC
+Đại_Cồ_Việt	Np	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đường	N	O
+đi	V	O
+đến	E	O
+số	N	B-LOC
+1	M	I-LOC
+Đại_Cồ_Việt	Np	I-LOC
+
+đi	V	O
+đến	E	O
+số	N	B-LOC
+1	M	I-LOC
+Đại_Cồ_Việt	Np	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+đến	E	O
+ngõ	N	B-LOC
+85	N	I-LOC
+Đại_Cồ_Việt	Np	I-LOC
+
+đi	V	O
+đến	E	O
+số	N	B-LOC
+11	M	I-LOC
+ngõ	N	B-LOC
+96	N	I-LOC
+Đại_Cồ_Việt	Np	I-LOC
+
+đi	V	O
+đến	E	O
+Đại_Cồ_Việt	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+tới	E	O
+Đại_Cồ_Việt	Np	B-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+đến	E	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+tới	E	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+Đại_Cồ_Việt	Np	B-LOC
+
+đi	V	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+như	C	O
+thế_nào	V	O
+tới	E	O
+Đại_Cồ_Việt	Np	B-LOC
+
+đi	V	O
+như	C	O
+thế_nào	V	O
+tới	E	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đường	N	O
+đi	V	O
+tới	E	O
+Đại_Cồ_Việt	Np	B-LOC
+
+đường	N	O
+đi	V	O
+tới	E	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+kiểu	N	O
+gì	P	O
+đến	E	O
+Đại_Cồ_Việt	Np	B-LOC
+
+đi	V	O
+kiểu	N	O
+gì	P	O
+đến	E	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+ra	V	O
+Đại_Cồ_Việt	Np	B-LOC
+
+những	L	O
+đường	N	O
+có_thể	V	O
+đi	V	O
+đến	E	O
+Đại_Cồ_Việt	Np	B-LOC
+
+về	E	O
+Đại_Cồ_Việt	Np	B-LOC
+
+về	E	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đến	E	O
+Đại_Cồ_Việt	Np	B-LOC
+có	V	O
+những	L	O
+đường	N	O
+nào	P	O
+
+đến	E	O
+Đại_Cồ_Việt	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+những	L	O
+đường	N	O
+nào	P	O
+
+Đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+từ	E	O
+đây	P	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+tới	E	O
+Lê_Duẩn	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+tới	E	O
+Lê_Duẩn	Np	B-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+về	E	O
+Lê_Duẩn	Np	B-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+từ	E	O
+đây	P	O
+tới	T	O
+Lê_Duẩn	Np	B-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+về	E	O
+Lê_Duẩn	Np	B-LOC
+
+từ	E	O
+đây	P	O
+tới	E	O
+Lê_Duẩn	Np	B-LOC
+kiểu	N	O
+gì	P	O
+
+Từ	E	O
+đây	P	O
+tới	E	O
+đường	N	B-LOC
+Lê_Duẩn	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+đây	P	O
+như	C	O
+thế_nào	V	O
+tới	E	O
+Lê_Duẩn	Np	B-LOC
+
+đi	V	O
+từ	E	O
+đây	P	O
+kiểu	N	O
+gì	P	O
+đến	E	O
+đường	N	O
+Lê_Duẩn	Np	B-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	A	O
+đến	E	O
+đường	N	B-LOC
+Lê_Duẩn	Np	I-LOC
+
+đi	V	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	N	O
+tớiLê	N	O
+Duẩn	Np	B-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+tới	E	O
+Lê_Duẩn	Np	B-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+hành_trình	N	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+đường	N	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+đi	V	O
+những	L	O
+đường	N	O
+nào	P	O
+
+những	L	O
+đường	N	O
+có_thể	N	O
+đi	V	O
+được	V	O
+từ	E	O
+đây	P	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+những	L	O
+đường	N	O
+có_thể	N	O
+đi	V	O
+được	V	O
+từ	E	O
+vị_trí	N	O
+hiện_tại	V	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+từ	E	O
+đây	P	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+có	V	O
+những	L	O
+đường	N	O
+nào	P	O
+
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+Hoàn_Kiếm	Np	I-LOC
+
+đường	N	O
+đi	V	O
+có_thể	V	O
+đến	E	O
+Lê_Duẩn	Np	B-LOC
+
+tới	E	O
+đường	N	B-LOC
+Lê_Duẩn	Np	I-LOC
+quận	N	B-LOC
+Hoàn_Kiếm	Np	I-LOC
+
+từ	E	O
+đây	P	O
+đi	V	O
+Lê_Duẩn	Np	B-LOC
+
+từ	E	O
+vị_trí	N	O
+hiện_tại	N	O
+đi	V	O
+Lê_Duẩn	Np	B-LOC
+
+đi	V	O
+Lê_Duẩn	Np	B-LOC
+Hoàn_Kiếm	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+nhà	N	I-LOC
+23	M	I-LOC
+ngõ	N	B-LOC
+11	M	I-LOC
+Trường_Trinh	Np	I-LOC
+đến	E	O
+22	M	B-LOC
+đường	N	I-LOC
+Láng	Np	I-LOC
+
+16	M	B-LOC
+đường	N	I-LOC
+Láng_đi	Np	I-LOC
+124	N	I-LOC
+Trường_Trinh	Np	I-LOC
+
+42	N	B-LOC
+Trường_Trinh	Np	I-LOC
+đến	V	O
+99	V	B-LOC
+đường	N	I-LOC
+Láng	Np	I-LOC
+
+số	N	B-LOC
+nhà	N	I-LOC
+25	M	I-LOC
+Trường_Trinh	Np	I-LOC
+đi	V	O
+đến	E	O
+số	N	B-LOC
+70	M	I-LOC
+ngõ	N	B-LOC
+96	N	I-LOC
+Chùa_Bộc	Np	I-LOC
+
+số	N	B-LOC
+12	M	I-LOC
+ngách	N	B-LOC
+18	M	I-LOC
+ngõ	N	B-LOC
+187	N	I-LOC
+Trường_Trinh	Np	I-LOC
+đến	E	O
+10	M	B-LOC
+Tôn_Thất_Tùng	Np	I-LOC
+
+65/56	N	B-LOC
+Trường_Trinh	Np	I-LOC
+đến	E	O
+25	M	B-LOC
+đường	N	I-LOC
+Láng	Np	I-LOC
+
+từ	E	O
+Trường_Trinh	Np	B-LOC
+sang	V	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+đi	V	O
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+sang	V	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+sang	V	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+đường	N	B-LOC
+Trường_Trinh	Np	I-LOC
+sang	V	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+Lộ_trình	Np	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đường	N	B-LOC
+Trường_Trinh	Np	I-LOC
+sang	V	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đường	N	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+tới	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đường	N	O
+từ	E	O
+đường	N	B-LOC
+Trường_Trinh	Np	O
+tới	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+hết	V	O
+bao_nhiêu	M	O
+km	Nu	O
+
+đi	V	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+sang	V	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+kiểu	N	O
+gì	P	O
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+5	M	I-LOC
+đường	N	B-LOC
+Láng	Np	I-LOC
+đến	E	O
+20	M	B-LOC
+đường	N	I-LOC
+Trường_Trinh	Np	I-LOC
+
+đi	V	O
+từ	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+đến	E	O
+Trường_Trinh	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+10	M	I-LOC
+đường	N	B-LOC
+Láng	Np	I-LOC
+đến	E	O
+30	M	B-LOC
+Trường_Trinh	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đường	N	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+tới	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+hành_trình	N	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+số	N	B-LOC
+10	M	I-LOC
+Trường_Trinh	Np	I-LOC
+đến	V	O
+200	M	B-LOC
+đường	N	I-LOC
+Láng	Np	I-LOC
+
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+đi	V	O
+kiểu	N	O
+gì	P	O
+
+từ	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+sang	V	O
+Trường_Trinh	Np	B-LOC
+như	C	O
+thế_nào	M	O
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đường	N	B-LOC
+Láng	Np	I-LOC
+đến	E	O
+đường	N	B-LOC
+Trường_Trinh	Np	I-LOC
+
+đường	N	B-LOC
+Láng	Np	I-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+Trường_Trinh	N	B-LOC
+tới	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đường	N	O
+đi	V	O
+ngắn	A	O
+nhất	R	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+từ	E	O
+245	N	B-LOC
+đường	N	I-LOC
+Láng	Np	I-LOC
+đến	E	O
+số	N	B-LOC
+8	M	I-LOC
+Trường_Trinh	Np	I-LOC
+
+đường	N	O
+đi	V	O
+từ	E	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đi	V	O
+kiểu	N	O
+gì	P	O
+từ	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+đến	E	O
+Trường_Trinh	Np	B-LOC
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+sang	V	O
+Trường_Trinh	Np	B-LOC
+
+đi	V	O
+về	V	O
+từ	E	O
+đường	N	O
+Trường_Trinh	Np	B-LOC
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+đường	N	B-LOC
+Trường	N	I-LOC
+Trinh	Np	I-LOC
+ra	V	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+
+những	L	O
+đường	N	O
+có_thể	V	O
+đi	V	O
+đến	E	O
+đường	N	B-LOC
+Láng	Np	I-LOC
+từ	E	O
+Trường_Trinh	Np	B-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+đây	P	O
+đến	E	O
+hồ	N	B-LOC
+Gươm	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+đến	V	O
+bờ	N	B-LOC
+hồ	N	I-LOC
+
+đi	V	O
+từ	E	O
+25	M	B-LOC
+Lò_Đúc	Np	I-LOC
+đến	V	O
+60	M	B-LOC
+Lạc_Trung	Np	I-LOC
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+nhà	N	I-LOC
+12	M	I-LOC
+rồi	C	O
+lúc	N	O
+tới	V	O
+115	M	B-LOC
+Lạc_Trung	Np	I-LOC
+
+từ	E	O
+số	N	B-LOC
+nhà_nhà	N	I-LOC
+30	M	I-LOC
+Lò_Đúc	Np	I-LOC
+tới	V	O
+số	V	B-LOC
+nhà	N	I-LOC
+72	N	I-LOC
+Lạc_Trung	Np	I-LOC
+
+ngõ	N	B-LOC
+85	N	I-LOC
+Lò_Đúc	Np	I-LOC
+đến	V	O
+Lạc_Trung	Np	B-LOC
+
+số	N	B-LOC
+8	M	I-LOC
+ngõ	N	B-LOC
+12	M	I-LOC
+Lạc_Trung	Np	I-LOC
+đến	V	O
+Lò_Đúc	Np	B-LOC
+
+ngõ	N	B-LOC
+22	M	I-LOC
+Lò_Đúc	N	I-LOC
+đến	N	O
+85	N	B-LOC
+là	V	I-LOC
+Trung	Np	I-LOC
+
+số	N	B-LOC
+nhà	N	I-LOC
+12	M	I-LOC
+ngách	N	B-LOC
+10	M	I-LOC
+ngõ	N	B-LOC
+84	M	I-LOC
+Lò_Đúc	Np	I-LOC
+đến	E	O
+121	N	B-LOC
+Lạc_Trung	Np	I-LOC
+
+số	N	B-LOC
+1	M	I-LOC
+phố	N	B-LOC
+Lò_Đúc	Np	I-LOC
+đến	V	O
+Phố_Lạc_Trung	Np	B-LOC
+
+ngách	N	B-LOC
+18	M	I-LOC
+ngõ	N	B-LOC
+21	M	I-LOC
+lò_đúc	N	O
+đi	V	O
+đến	E	O
+35	M	B-LOC
+Lạc_Trung	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đường	N	O
+đi	V	O
+từ	E	O
+số	N	B-LOC
+2	M	I-LOC
+Lò_Đúc	Np	I-LOC
+đến	E	O
+110	N	B-LOC
+Lạc_Trung	Np	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+số	N	B-LOC
+2	M	I-LOC
+Lò_Đúc	Np	I-LOC
+đến	E	O
+số	N	B-LOC
+10	M	I-LOC
+Lạc_Trung	Np	I-LOC
+Quận	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+lò_đúc	N	B-LOC
+đi	V	O
+đến	E	O
+310	N	B-LOC
+Phố_Lạc_Trung	Np	I-LOC
+
+Chỉ	R	O
+đường	N	O
+từ	E	O
+số	N	B-LOC
+8	M	I-LOC
+ngõ	N	B-LOC
+12	M	I-LOC
+phố	N	B-LOC
+Lò_Đúc	Np	I-LOC
+đến	E	O
+110	N	B-LOC
+Lạc_Trung	Np	I-LOC
+
+đường	N	O
+đi	V	O
+từ	E	O
+phố	N	B-LOC
+Lò_Đúc	Np	I-LOC
+đến	E	O
+65	N	B-LOC
+Lạc_Trung	Np	I-LOC
+
+từ	E	O
+ngõ	N	B-LOC
+100	M	I-LOC
+Lò_Đúc	Np	I-LOC
+đến	E	O
+số	N	B-LOC
+9	M	I-LOC
+ngõ	N	B-LOC
+12	M	I-LOC
+Lạc_Trung	Np	I-LOC
+
+đường	N	O
+đi	V	O
+từ	E	O
+200	M	B-LOC
+Lạc_Trung	Np	I-LOC
+đến	V	O
+100	M	B-LOC
+Lò_Đúc	Np	I-LOC
+
+đi	V	O
+như	C	O
+thế_nào	N	O
+từ	E	O
+Lò_Đúc	Np	B-LOC
+đến	E	O
+98	N	B-LOC
+Lạc_Trung	Np	I-LOC
+
+đi	V	O
+kiểu	N	O
+gì	P	O
+từ	E	O
+số	N	B-LOC
+nhà	N	I-LOC
+17	M	I-LOC
+Phố_Lạc_Trung	Np	I-LOC
+đến	V	O
+98	V	B-LOC
+phố	N	I-LOC
+Lò_Đúc	Np	I-LOC
+
+đi	V	O
+từ	E	O
+số	N	B-LOC
+2	M	I-LOC
+Phố_Lạc_Trung	Np	I-LOC
+Quận	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+đến	E	O
+18	M	B-LOC
+Phố_Lạc_Trung	Np	I-LOC
+Quận	Np	B-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+119	N	B-LOC
+lò_đúc	V	I-LOC
+sang	V	O
+20	M	B-LOC
+Lạc_Trung	Np	I-LOC
+
+85	N	B-LOC
+Lạc_Trung	Np	I-LOC
+đến	V	O
+Lò_Đúc	Np	B-LOC
+
+số	N	B-LOC
+62	M	I-LOC
+phố	N	B-LOC
+Ngọc_Hà	Np	I-LOC
+đến	E	O
+phố	N	B-LOC
+Bồ_Đề	Np	I-LOC
+
+ngách	N	B-LOC
+423	V	I-LOC
+ngõ	N	B-LOC
+15	M	I-LOC
+Ngọc_Hà	Np	I-LOC
+đi	V	O
+đến	V	O
+75	V	B-LOC
+phố	N	I-LOC
+Bồ_Đề	Np	I-LOC
+như	C	O
+thế_nào	M	O
+
+đường	N	O
+đi	V	O
+từ	E	O
+số	N	B-LOC
+341	N	I-LOC
+Ngọc_Hà	Np	I-LOC
+đến	E	O
+108	M	B-LOC
+bồ_đề	N	I-LOC
+Long_Biên	Np	I-LOC
+
+Cho	V	O
+tôi	P	O
+hỏi	V	O
+đường	N	O
+tới	T	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+Cho	V	O
+tôi	P	O
+hỏi	V	O
+đường	N	O
+về	V	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+Cho	V	O
+tôi	P	O
+hỏi	V	O
+đường	N	O
+đến	E	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+Cho	V	O
+tôi	P	O
+hỏi	V	O
+đường	N	O
+sang	V	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+Cho	V	O
+tôi	P	O
+hỏi	V	O
+đường	N	O
+đi	V	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+tới	V	O
+150A	V	B-LOC
+chùa	N	I-LOC
+Lá	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+về	V	O
+150A	V	B-LOC
+chùa	N	I-LOC
+Lá	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đến	V	O
+150A	V	B-LOC
+chùa	N	I-LOC
+Lá	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+đi	V	O
+150A	V	B-LOC
+chùa	N	I-LOC
+Lá	Np	I-LOC
+
+hỏi	V	O
+đường	N	O
+sang	V	O
+150A	V	B-LOC
+chùa	N	I-LOC
+Lá	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+tôi	P	O
+tới	E	O
+180m	N	B-LOC
+Chùa_Láng	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+tôi	P	O
+về	E	O
+180m	N	B-LOC
+Chùa_Láng	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+tôi	P	O
+đến	V	O
+180m	N	B-LOC
+Chùa_Láng	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+tôi	P	O
+đi	V	O
+180m	V	B-LOC
+Chùa_Láng	Np	I-LOC
+
+chỉ	R	O
+đường	N	O
+tôi	P	O
+sang	V	O
+180m	N	B-LOC
+Chùa_Láng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa_Láng	Np	I-LOC
+về	R	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa	N	I-LOC
+Láng	Ny	I-LOC
+tới	T	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa_Láng	Np	I-LOC
+đến	E	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa	N	I-LOC
+Láng	Np	I-LOC
+đi	V	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa	N	I-LOC
+Láng	Np	I-LOC
+sang	V	O
+23	M	B-LOC
+m	Nu	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa_Láng	Np	I-LOC
+về	V	O
+23m	V	B-LOC
+hàng	N	I-LOC
+bài	N	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa	N	I-LOC
+Láng	Np	I-LOC
+tới	V	O
+23m	V	B-LOC
+hàng	N	I-LOC
+bài	N	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa_Láng	Np	I-LOC
+đến	V	O
+23m	V	B-LOC
+hàng	N	I-LOC
+bài	N	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa	N	I-LOC
+Láng	Np	I-LOC
+đi	V	O
+23m	V	B-LOC
+hàng	N	I-LOC
+bài	N	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
+
+đi	V	O
+từ	E	O
+150	M	B-LOC
+Chùa	N	I-LOC
+Láng	Np	I-LOC
+sang	V	O
+23m	V	I-LOC
+hàng	N	I-LOC
+bài	N	I-LOC
+Hai_Bà_Trưng	Np	I-LOC
