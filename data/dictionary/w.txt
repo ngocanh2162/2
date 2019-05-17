@@ -1,424 +1,327 @@
-ba_vì 2
-thái_hòa_ba 1
+ba vì 14
+thái hòa ba 1
 vật 2
-mỹ_lộc 77
-đan_phượng 30
-phượng_hà_nội 6
+mỹ lộc 96
+đan phượng 31
+phượng hà nội 6
 trôi 94
-yên_trung_thạch_thất 3
-yên_chương 13
-mỹ 19
-yên 10
-yên_chương_mỹ 3
-phú_nghĩa_chương 3
-chúc_sơn_chương 3
-thanh_oai 16
-viên 16
-ứng_hòa 23
-xã_viên 10
-ứng_hòa_hà_nội 3
-ba_đình 68
+hoài đức 124
+yên chương 16
+yên 18
+chương mỹ 36
+phú nghĩa chương 4
+chúc sơn chương 3
+thanh oai 19
+ứng hòa 16
 cấn 16
-hoàn_kiếm 114
 đào 15
-quận_hoàn_kiếm 10
-bồ 12
-bồ_hoàn_kiếm 1
-bạc 14
-gai 10
-dương_độ 14
+bồ 13
+bạc 19
+gai 14
+quận hoàn kiếm 2
+dương độ 14
 trống 14
-nam 12
-tây_hồ 33
-phường_tứ_liên 11
-tứ_liên 1
-bách_khoa 32
-vincom 41
-city_towers 23
-vincom_city 4
-city 11
-thiền_quang 9
+nam 22
+bách khoa 32
+vincom 45
+city towers 34
+thiền quang 9
 hôm 17
 mơ 14
-đình 17
-chợ_giời 8
-tang_lễ 21
-quốc_phòng 21
-vĩnh_tuy 39
+chợ giời 8
+tang lễ 21
+quốc phòng 23
+vĩnh tuy 39
 cảng 23
 đen 24
-ruby_plaza 15
-kinh_tế 44
-kỹ_thuật 26
-công_nghiệp 21
-đại_học 53
-trường_học 2
-xây_dựng 18
-quốc_dân 18
-kinh_tế_quốc_dân 5
-viện 40
-mở_chỗ 1
-mở_nơi 3
-dân 7
-phương_đông 10
-dân_lập_phương 6
-đông 7
-kinh_doanh 37
-công_nghệ 37
-phổ_thông 145
-thăng_long 24
-trần_nhân_tông 5
-trần_nhân 19
-hồng_hà 24
-hoàng_diệu 24
-mai_hắc_đế 25
+ruby plaza 15
+kinh tế 49
+kỹ thuật 26
+công nghiệp 21
+đại học 53
+trường học 2
+xây dựng 19
+quốc dân 25
+viện 42
+phương đông 17
+dân lập phương 6
+kinh doanh 37
+công nghệ 37
+phổ 145
+thông 191
+thăng long 24
+trần nhân 25
+hồng hà 24
+hoàng diệu 30
+mai hắc đế 31
 vinschool 48
-cơ_sở 385
-nguyễn_đình_chiểu 24
-lê_ngọc_hân 24
-quỳnh_mai 24
-tây_sơn 26
-đoàn_kết 23
-bán_kết 1
-ngô_quyền 26
-hà_huy_tập 24
-ngô_gia_tự 26
-tô_hoàng 24
-thanh_lương 23
-nguyễn_phong_sắc 24
-trưng_nhị 25
-chùa_quỳnh 12
-quỳnh 12
-hai_bà 2
-trưng_thành 2
+cơ sở 385
+nguyễn đình chiểu 41
+lê ngọc hân 24
+quỳnh mai 36
+tây sơn 28
+đoàn kết 23
+bán kết 1
+ngô quyền 26
+hà huy tập 24
+ngô gia tự 26
+tô hoàng 24
+thanh lương 23
+nguyễn phong sắc 24
+trưng nhị 25
+chùa quỳnh 12
 vua 13
 mác 21
 chuối 4
-hồng_mai 4
-bạch 5
-mai 6
+hồng mai 4
 hẻm 23
-tìm_kiếm 1
-không_quân 1
-thanh_xuân 16
-quang_trung 4
-đống_đa 11
-phố_chùa 2
-bộc 3
-phố_chùa_bộc 1
+tìm kiếm 1
+phố chùa 2
+bộc 4
+việt 2
 quậnhai 2
-bà_trưng 2
-hà_đông 18
+bà trưng 2
 kfc 4
-ủy_ban 2
-nhân_dân 4
-nhà_thi_đấu 2
-phú_diễn 2
-quận_bắc 2
-từ_liêm 9
-ban_nhân_dân 2
-phú_lương_hà_đông 3
-doãn_kế 2
-thượng_chỗ 2
-cầu_giấy 1
+ủy ban 2
+nhân dân 6
+nhà thi đấu 2
+phú diễn 2
+phú lương hà đông 3
+nguyễn khoái 2
+doãn kế 2
+thượng 2
+cầu giấy 1
 bãi 3
-time 4
-tây_sơn_quang_trung 2
-phúc 3
-đồng_long_biên 2
-hoàng 6
-tăng_bí 4
-dương_nội 5
-khu 18
-tập_thể 10
-kim_liên 2
+time 5
+phúc 9
+đồng long biên 2
+tăng bí 4
+dương nội 5
+khu 23
+tập thể 10
+kim liên 2
 dừa 3
-quốc_gia 3
+quốc gia 3
 đường 7
-phạm_ngọc_thạch 4
-nguyễn_khiết 2
-cây_xăng 4
-an_dương 3
+phạm ngọc thạch 6
+nguyễn khiết 2
+cây xăng 4
+an dương 3
 metro 3
-công_chất 2
-diễn 2
-hoàng_văn_thái 3
-hoàng_đạo 4
+công chất 2
+diễn 3
+hoàng văn thái 3
+hoàng đạo 5
 thúy 4
-nghi_tàm 5
-thịnh_liệt 2
-ngụy_như 3
-kon_tum 3
-văn_phú 2
-đặng_văn_ngữ 4
+nghi tàm 5
+thịnh liệt 2
+ngụy như 3
+kon tum 3
+văn phú 2
+đặng văn ngữ 4
 mipec 2
-long_biên_chỗ 2
-kim_giang 1
-tân_phường 2
-địa_chỉ_số 2
-hồ_tùng_mậu 5
+tân 5
+địa chỉ số 2
+hồ tùng mậu 5
 chéo 2
-nguyễn_văn_cừ 3
-long_biên 9
-nguyễn_ngọc_nại 2
-chùa_láng 1
-kiều_mai_phúc 2
-diễn_bắc 2
-an_ninh 2
+nguyễn văn cừ 3
+nguyễn ngọc nại 2
+chùa láng 1
+diễn bắc 2
+từ liêm 6
+an ninh 3
 rạp 2
 xiếc 2
-trung_ương 4
-hệ_thống 2
-huyết_học 3
+trung ương 4
+hệ thống 2
+huyết học 3
 truyền 2
 máu 2
 aeon 2
 mall 2
-lăng_chủ_tịch 2
-hồ_chí_minh 2
-thái_hà 42
-văn_hương 2
-công_an 3
+hồ chí minh 2
+thái hà 43
+văn hương 2
+công an 3
 ct2c 2
-trần_chân 2
+trần chân 2
 hẹn 2
-tổ 4
-dương_quảng_hàm 3
-trần_cung_phường 2
-nghĩa_tân 4
+tổ 6
+dương quảng hàm 3
+trần cung 3
 lotte 2
-trần_đại_nghĩa_địa_chỉ 2
-chi_nhánh 2
+trần đại nghĩa địa chỉ 2
+chi nhánh 2
 bidv 2
-thủy_lợi 2
-không_quân_số 2
-trương_định 4
+thủy lợi 2
+không quân số 3
+trương định 5
 vtc 2
-tam_trinh 4
-trà 2
-phúc_long 2
-sư_phạm 2
-kiến_trúc 2
-quận_hà_đông 2
-phượng_đi 1
-phượng_sao 1
+tam trinh 5
+trà 3
+sư phạm 2
+kiến trúc 2
+phượng sao 1
 kiểu 16
-tôn_thất_tùng 2
+tôn thất tùng 2
 km 1
-thanh_xuân_sang 1
+thanh xuân sang 1
 tớilê 1
 duẩn 1
-trinh 1
-nhà_nhà 2
-phố_lạc_trung 4
+nhà nhà 2
+phố lạc trung 4
 gốc 1
-khương_trung 2
-thụy_khuê 3
-nguyễn_an_ninh 1
-lê_trọng 2
-tấn_hà_đông 2
-tân_đi 1
-vũ_tông 2
-phan 2
+khương trung 2
+lê trọng 2
+tấn hà đông 2
+vũ tông 2
+phan 7
 garden 2
-đại_mỗ 1
-lương_thế_vinh 1
-công_hạ 2
-phan_đình_phùng 1
+đại mỗ 1
+lương thế vinh 1
+công hạ 2
 hh2a 1
-linh 4
-đàm 4
-thạch_bàn 1
-nguyễn_ngọc_vũ 2
-hoàng_cầu 2
+linh 6
+đàm 5
+thạch bàn 1
+nguyễn ngọc vũ 2
+hoàng cầu 2
 hh1a 1
 phùng 1
 khoang 1
-kiến_hưng 1
-hoàng_quốc_việt 2
-linh_giang 1
+kiến hưng 1
+hoàng quốc việt 2
 n5c 1
-phòng 1
 cháy 1
-chữa_cháy 1
-vũ_hữu 1
-văn_chương 1
-nguyễn_quý_đức 1
-nguyễn_hữu_huân 1
-trần_thái_tông 1
-xây_dựng_ngõ 1
-trung_kính 2
-hoàng_minh_giám 1
-the_vesta 1
+chữa cháy 1
+vũ hữu 1
+văn chương 1
+nguyễn quý đức 1
+nguyễn hữu huân 1
+trần thái tông 1
+trung kính 2
+hoàng minh giám 1
+the vesta 1
 xốm 1
-trương 1
-công_định 1
-tràng_thi 1
-đi_cầu_vượt 1
-phú_thụy_gia_lâm 1
-đàm_đi 1
-thùy_lĩnh 1
+công định 1
+cầu vượt 1
+thùy lĩnh 1
 lĩnh 1
-nam_ngách 1
-an_sơn 1
+an sơn 1
 n4c 1
-lương_thế 1
-vinh_nam 1
-tạ_quang_bửu_đi 1
-xe_buýt 3
-lê_thành_nghị 1
-âu_cơ 1
-cầu_diễn 1
-bến_xe_buýt 2
-quốc 1
-tân_ấp 2
+lương thế 1
+xe buýt 5
+lê thành nghị 1
+âu cơ 1
+tân ấp 2
 mạc 1
-thái_tổ 1
-bùi_xương_trạch 1
-võng_thị 1
+bùi xương trạch 1
+võng thị 1
 tuấn 1
-quốc_hội 1
-quan_nhân 2
-văn_quán 1
-mai_chí 1
-thọ_giang 1
-biên_long_biên 2
-văn_miếu 1
-ngọc_động 1
-tốn_gia_lâm 1
-nguyễn_khánh_toàn 1
-nguyễn_thái_học 1
-thợ_nhuộm 1
-hoàng_đạo_thúy 1
-gia_lâm 2
-giang 2
-văn_minh 1
-trần_hữu_dục 1
-lạc_long_quân 3
+quốc hội 1
+quan nhân 2
+văn quán 1
+mai chí 1
+biên long biên 2
+miếu 1
+ngọc động 1
+nguyễn khánh toàn 1
+nguyễn thái học 1
+thợ nhuộm 1
+gia lâm 4
+giang 4
+văn minh 1
+trần hữu dục 1
+lạc long quân 3
 kiốt 1
-b4_ngõ 1
-kim_văn_kim_lũ 2
-trần_đại_nghĩa_đi 1
-chu_văn_an_linh 1
-gia_quất 1
-lĩnh_nam 2
-nam_cường 1
-hàng_tre 1
-cự_lộc 1
-yên_lãng 2
-dân_phố 2
-phúc_lý 1
-bắc 2
-dương_đình_nghệ 2
-trần_duy_hưng 2
+b4 1
+kim văn kim lũ 2
+gia quất 1
+hàng tre 1
+cự lộc 1
+dân phố 2
+dương đình nghệ 2
+trần duy hưng 2
 mành 1
-đầm_trấu 1
-trần_bình 2
-yên_ninh 1
-cổ_nhuế 1
-phan_văn_trường 1
-hào_nam 2
-phương_canh 1
-tôn_đức_thắng 2
+đầm trấu 1
+trần bình 2
+cổ nhuế 1
+phương canh 1
+tôn đức thắng 2
 tó 2
 vẽ 1
 lãm 1
-phúc_tân_hoàn_kiếm 1
-triều_khúc 3
-phan_kế 1
+triều khúc 3
 bính 1
-ỷ_lan 1
-khoai_xanh 1
-vũ_xuân_thiều 1
-ct 2
-phan_bá_vành_sang 1
-đông_ngạc 1
-lê_văn_lương 1
-hồng_tiến 1
-an_bình 1
-xa_la 2
-time_city 1
-tự_trọng_hà_đông 1
-xuân_diệu 2
+ỷ lan 1
+vũ xuân thiều 1
+ct 3
+đông ngạc 1
+lê văn lương 1
+hồng tiến 1
+an bình 1
+xa la 2
+tự trọng hà đông 1
+xuân diệu 2
 thăm 1
 khoai 1
-lê_hồng_phong 1
-biến_thế 1
-tân_triều 1
-thanh_trì 1
-lêthanh_nghị 1
-ngạc_nam 1
-phú_quý 1
-liêm 1
-nguyễn_văn_huyên 1
+lê hồng phong 1
+biến thế 1
+thanh trì 1
+lêthanh nghị 1
+phú quý 1
 triệu 2
-việt_vương 2
-văn_thiêm 1
+việt vương 2
+văn thiêm 1
 lớp 1
-trịnh_hoài_đức 1
-nguyễn_đổng_chi 1
-ecohome_đông_ngạc 1
-phan_bá_vành_đi 1
-vũ_trọng_phụng 1
-võ_thị_sáu 1
-ngọc_thụy 1
-thanh_bình 1
+nguyễn đổng chi 1
+ecohome đông ngạc 1
+vũ trọng phụng 1
+võ thị sáu 1
+ngọc thụy 1
+thanh bình 1
 vôi 1
-nguyễn_chính 1
+nguyễn chính 1
 shop 4
-khánh_hội 1
-đê_la_thành 1
-trần_điền_định_công 1
-nghĩa 1
-tân_cầu 1
-xã_đàn 1
-phùng_khoang 1
+khánh hội 1
+đê la thành 1
+điền định công 1
+phùng khoang 1
 huế 1
 fpt 1
-bệnh_viện 2
 quạt 1
-xanh 2
+xanh 3
 bươu 1
-thế_giới 1
-di_động 1
-thái_hà_láng_hạ 1
-nguyễn_tuân 1
-tổng_hợp 1
-cảnh_sát 1
+thế giới 1
+di động 1
+nguyễn tuân 1
+cảnh sát 1
 ngã 4
-hàm_nghi 1
-khuyến_lương 1
-hoàng_mai_qua 1
-phạm_ngũ_lão 1
-kim_ngưu 3
-khuất_duy_tiến 1
+hàm nghi 1
+hoàng mai qua 1
+phạm ngũ lão 1
+kim ngưu 3
 a6c 1
-nam_trung 1
-yên_trung_hòa 1
-lê_đức_thọ 1
-nguyễn_huy_tưởng 1
-ct12a 1
-đại_kim_đi 1
+lê đức thọ 1
+đại kim 1
 canh 1
 royal 1
-city_r5b 1
-xuân_đỉnh 1
-lý_nam_đế 1
-dốc_thọ 1
+city r5b 1
+xuân đỉnh 1
+dốc thọ 1
 lão 1
-nguyễn_chí_thanh 1
+nguyễn chí thanh 1
 vinaconex 1
 kiên 1
-trần_cung 1
-mai_dịch 1
-nguyễn_viết_xuân 1
-tư 3
-nguyễn_hoàng 1
-tôn_võ_chí_công 1
-định_công 1
+mai dịch 1
+nguyễn viết xuân 1
+tư 4
+nguyễn hoàng 1
+tôn võ chí công 1
+định công 1
 hh3a 1
-khương_hạ 1
-nguyễn_cơ_thạch 1
-trần_quốc_toản 1
-huỳnh_thúc_kháng 1
-the_light 1
+khương hạ 1
+nguyễn cơ thạch 1
+trần quốc toản 1
+huỳnh thúc kháng 1
+the light 1

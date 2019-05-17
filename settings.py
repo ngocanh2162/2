@@ -20,6 +20,13 @@ for i in range (len(l)+1):
 for i in range (len(f)):
     f[i].append(list())
     f[i].append(list())
+    # f[i].append(list())
 
 v = []
 k = []
+# , ['trung_học'], ['đại_học'],['tiểu_học']
+# 'chùa', 'cầu', 'quán'
+d = ['tỉnh', 'quận', 'huyện', 'phường', 'khối', 'xóm', 'xã', 'thôn', 'làng','sân','ga', 'ngõ', 
+'lăng', 'tòa',  'sông', 'núi', 'đồi', 'đèo', 'rừng', 'suối', 'biển', 'vịnh', 'miếu', 'tiệm', 'đền',
+'nơi', 'chỗ', 'tới', 'đi']
+

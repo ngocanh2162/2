@@ -23,8 +23,30 @@ class NLP(object):
         except TypeError:
             return []
 
+    def removeDup(self):
+        text = self.split_words()
+        x = settings.d
+        for i in range(0, len(text)):
+            for j in range(len(x)):
+                flag = True
+                if (x[j] in text[i]):
+                    if str("_" + x[j]) in text[i]:
+                        flag = False
+                        index_cut1 = text[i].index(x[j])
+                    if str(x[j] + "_") in text[i]:
+                        flag = False
+                        index_cut1 = text[i].index(str(x[j] + "_")) + len(str(x[j] + "_"))
+                    if flag == False:
+                        index_cut2 = len(text[i]) - index_cut1
+                        s1 = str(text[i][: -(index_cut2+1)])
+                        s2 = str(text[i][-index_cut2:])
+                        text.remove(text[i])
+                        text.insert(i, s1)
+                        text.insert(i+1, s2) 
+        return text
+
     def get_words(self):
-        split_words = self.split_words()
+        split_words = self.removeDup()
         list1 = []
         for word in split_words:
             if word not in self.stopwords:
@@ -61,17 +83,17 @@ class NLP2(object):
                         if j in (0,1,7):  
                             str1 = ''.join(list[i+1])
                         else:
-                            str1 = ''
-                            str1 += list[i] + '_' + list[i+1]
+                            str1 = list[i] + '_' + list[i+1]
                         if str1 not in f[j][0]:
                             f[j][0].insert(len(f[j][0]), str1)
                             f[j][1].insert(len(f[j][0]), 1)
+                            # f[j][2].insert(len(f[j][0]), list[i])
                         else:
                             f[j][1][f[j][0].index(str1)] += 1
                         if list[i+1] in f[l_leng]:
                             index1 = f[l_leng][0].index(list[i+1])
                             v1 = f[l_leng][1][index1]
-                            f[j][1][len(f[j][0])-1] += v1
+                            f[j][1][f[l_leng][0].index(list[i+1])] += v1
                             f[l_leng][0].remove(list[i+1])
                             f[l_leng][1].pop(index1)
                         break
@@ -112,8 +134,9 @@ class NLP2(object):
 
 def writeListToTextFile(list, file):
     for i in range(len(list[0])):
-        file.write(str(list[0][i]) + ' ' + str(list[1][i]) +'\n')
-
+        if list[1][i] != 0:
+            file.write(str(list[0][i]).replace("_"," ")+ ' ' + str(list[1][i]) +'\n')
+            
 def fileInFolder(folderPath, fileList):
     # r=root, d=directories, f = dictionary_files
     for r, d, f in os.walk(folderPath):
@@ -121,27 +144,40 @@ def fileInFolder(folderPath, fileList):
             if '.txt' in file:
                 fileList.append(os.path.join(r, file))
 
-def removeDup(text):
-    for i in range(0, len(text)):
-        if ("_huyện" in text[i]):
-            index_huyen = text[i].index("_huyện")
-            index_cut = len(text[i]) - index_huyen
-            s1 = str(text[i][: -index_cut])
-            s2 = str(text[i][-(index_cut-1):])
-            text.remove(text[i])
-            text.insert(i, s1)
-            text.insert(i+1, s2) 
+def hauXuLy(f, h):
+    f.insert(len(f), 'abcxyzghf')
+    h.insert(len(f), 0)
+    j = 0
+    k = 1
+    while j < len(f):
+        flag = False
+        while k < len(f):
+            flag = False
+            if ((str(f[j]) in str(f[k])) & (h[k]>h[j]))or((str(f[k]) in str(f[j])) & (h[j]<h[k])):
+                flag = True
+                h[k] += h[j]
+                f.remove(f[j])
+                h.pop(j)
+            if ((str(f[j]) in str(f[k])) & (h[k]<h[j]))or((str(f[k]) in str(f[j])) & (h[j]>h[k])):
+                flag = True
+                h[j] += h[k]
+                f.remove(f[k])
+                h.pop(k)
+            if flag == True:
+                continue
+            else:
+                k += 1
+        if flag == True:
+            continue  
+        else: 
+            j +=1
+            k = j+1
 
 # setting
 l1 = settings.l
 f1 = settings.f
-v1 = settings.v
-k1 = settings.k
-# ask_folder = os.path.join("data","ask")
-# ask_files = []
-# fileInFolder(ask_folder, ask_files)
-# for i in range (0, len(ask_files)):
-#     open(ask_files[i], encoding="utf8")
+
+# open files
 f_ask = open(os.path.join("data","ask","ask.txt"), encoding="utf8")
 f_ask3 = open(os.path.join("data","ask","ask3.txt"), encoding="utf8")
 ask_files = [f_ask,f_ask3]
@@ -149,18 +185,15 @@ ask_files = [f_ask,f_ask3]
 dictionary_folder = os.path.join("data","dictionary") 
 dictionary_files = []
 fileInFolder(dictionary_folder, dictionary_files)
-for i in range (0, len(f1)+1):
+for i in range (0, len(f1)):
     open(dictionary_files[i], 'w', encoding="utf8")
 
 # main
 for j in range (len(ask_files)):
     for line in ask_files[j]:
         text = NLP(text=line).get_words()
-        removeDup(text)
         f1 = list(NLP2(text).builDictionary())
-        
+  
 for i in range (0, len(f1)):
+    hauXuLy(f1[i][0], f1[i][1])
     writeListToTextFile(f1[i], open(dictionary_files[i], 'a',encoding="utf8"))
-print(NLP(text="từ ga Gia Lâm đi bến xe Mỹ Đình").split_words())
-print(NLP(text="từ ga Gia Lâm đi bến xe Mỹ Đình").get_words())
-

@@ -1,4 +1,4 @@
-sông_kim_ngưu 18
-sông_hồng 3
-núi_trúc 2
-biển_hà_trì 1
+sông kim ngưu 18
+sông hồng 3
+núi trúc 5
+biển hà trì 1

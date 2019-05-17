@@ -1,10 +1,9 @@
-trường_đại_học 160
-trường_trung_học 506
-trường_trung_học_phổ_thông 22
-trường_phổ_thông 24
-học_viện_ngoại_giao 2
-trường_học_viện 2
-trường_mầm_non 2
-trường_hà_châu_phong_đông 1
-trường_tiểu_học 1
-học_viện_hậu_cần 1
+trường đại học 160
+trường trung học 528
+trường phổ 24
+học viện ngoại giao 2
+trường học viện 2
+trường mầm non 2
+trường hà châu phong đông 1
+trường tiểu học 1
+học viện hậu cần 1

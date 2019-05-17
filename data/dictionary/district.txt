@@ -1,88 +1,89 @@
-vạn_thắng 6
-châu_sơn 6
-ba_vì 18
-phong_vân 6
-phú_đông 6
-phú_phương 6
-phú_châu 6
-thái_hòa 4
-đồng_thái 6
-phú_sơn 6
-minh_châu 6
-vật_lại 4
-chu_minh 6
-cẩm_lĩnh 16
-phúc_thọ 129
+vạn thắng 6
+châu sơn 6
+phong vân 6
+phú đông 6
+phú phương 6
+phú châu 6
+thái hòa 4
+đồng thái 6
+phú sơn 6
+minh châu 6
+vật lại 4
+chu minh 6
+cẩm lĩnh 16
+phúc thọ 119
 trạch 67
-thượng_mỗ 49
+thượng mỗ 49
 trạm 77
-đức_thượng 30
-hoài_đức 145
-quốc_oai 42
-yên_trung 10
-thạch_thất 10
-đông_phương 17
-chương_mỹ 65
-phú_nghĩa 23
-chúc_sơn 23
-kim_bài 26
-mỹ_hưng 14
-thanhoai 32
-ninh_sở 13
-phúc_xá 22
-trúc_bạch 15
-vĩnh_phúc 16
-cống_vị 15
-liễu_giai 15
-nguyễn_trung_trực 15
-quán_thánh 15
-ngọc_hà 15
-điện_biên 14
-phường 7
-đội_cấn 5
-đội 19
-ngọc_khánh 23
-kim_mã 26
-giảng_võ 25
-thành_công 26
-phúc_tân 26
-đồng_xuân 22
-hàng_mã 22
-hàng_buồm 44
-hàng 129
-hàng_bồ 5
-cửa_đông 22
-lý_thái_tổ 22
-hàng_bạc 5
-hàng_gai 12
+đức thượng 39
+quốc oai 42
+yên trung 10
+đông phương 26
+phú nghĩa 23
+chúc sơn 23
+kim bài 26
+mỹ hưng 16
+ninh sở 13
+viên 26
+phúc xá 22
+ba đình 148
+trúc bạch 15
+vĩnh phúc 16
+cống vị 15
+liễu giai 15
+nguyễn trung trực 15
+quán thánh 15
+ngọc hà 15
+điện biên 14
+phường 9
+đội 24
+ngọc khánh 23
+kim mã 26
+giảng võ 25
+thành công 26
+phúc tân 26
+hoàn kiếm 269
+đồng xuân 22
+hàng buồm 44
+hàng 198
+cửa đông 32
+lý thái tổ 22
 chương 22
-hàng_trống 4
-cửa_nam 12
-cửa 10
-hàng_bông 5
-tràng_tiền 25
-trần_hưng_đạo 23
-phan_chu_trinh 20
-hàng_bài 16
-phú_thượng 19
-nhật_tân 19
-quảng_an 19
-xuân_la 23
-yên_phụ 20
+cửa nam 12
+tràng tiền 25
+trần hưng đạo 23
+phan chu trinh 20
+phú thượng 19
+tây hồ 103
+nhật tân 19
+quảng an 19
+tứ liên 18
+xuân la 23
+yên phụ 20
 bưởi 19
-thụy_khê 19
-phương_mai 5
-đồng_tâm 2
-bách_khoa 4
-ngọc_hồi 5
-việt_kiều 2
-hai_bà_trưng 36
-dịch_vọng 7
-yên_hòa 2
-quan_hoa 3
-hoàng_hoa_thám 2
-mai_động 1
-minh_khai 32
-ô_chợ 2
-láng_hạ_đống_đa 1
-gia_thụy 2
+thụy khê 19
+hai bà trưng 1022
+phương mai 5
+đống đa 15
+thanh xuân 17
+quang trung 5
+hoàng mai 6
+đồng tâm 2
+bách khoa 4
+ngọc hồi 5
+bắc 4
+long biên 10
+hà đông 18
+việt kiều 2
+quận 7
+dịch vọng 7
+cầu giấy 13
+yên hòa 2
+quan hoa 3
+nghĩa tân 4
+hoàng hoa thám 9
+mai động 1
+minh khai 32
+liêm 1
+ô chợ 2
+gia thụy 2

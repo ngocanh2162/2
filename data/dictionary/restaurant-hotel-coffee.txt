@@ -1,8 +1,7 @@
-cửa_hàng_thế_giới_di_động 5
-cửa_hàng_fpt_shop 2
-siêu_thị_media_mart 2
-siêu_thị_điện_máy 4
-nhà_hàng_sen 2
-cửa_hàng_kfc 2
-siêu_thị_mediamart 1
-cửa_hàng_fpt 3
+cửa hàng thế giới di động 5
+siêu thị media mart 2
+siêu thị điện máy 4
+nhà hàng sen 2
+cửa hàng kfc 2
+siêu thị mediamart 1
+cửa hàng fpt 5

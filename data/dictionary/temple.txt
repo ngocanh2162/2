@@ -1,9 +1,7 @@
-chùa_liên_phái 11
-chùa_phái 9
-đền_hai_bà_trưng 24
-chùa_đức_viên 23
-chùa_vua 14
-chùa_bộc 10
-chùa_bộc_phường 3
-chùa_bộc_đống_đa 2
-chùa_láng 2
+chùa liên phái 11
+chùa phái 9
+đền hai bà trưng 24
+chùa đức viên 23
+chùa vua 14
+chùa bộc 17
+chùa láng 2

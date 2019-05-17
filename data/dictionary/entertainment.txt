@@ -1,9 +1,9 @@
-công_viên_thống_nhất 25
-công_viên_tuổi_trẻ 26
-sân_vận_động 25
-bảo_tàng_phòng_không 3
-trung_tâm_chiếu_phim 2
-quán_cà_phê 2
-công_viên_hòa_bình 2
-trung_tâm_thương_mại 3
-sân_đê_la_thành 1
+công viên thống nhất 25
+công viên tuổi trẻ 26
+sân vận động 25
+bảo tàng phòng không 3
+trung tâm chiếu phim 2
+quán cà phê 2
+công viên hòa bình 2
+trung tâm thương mại 3
+sân đê la thành 1

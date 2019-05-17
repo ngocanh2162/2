@@ -1,74 +1,63 @@
-bà_triệu 27
-bạch_đằng 29
-bạch_mai 47
-bùi_ngọc_dương 27
-bùi_thị_xuân 33
-cảm_hội 23
-cao_đạt 10
-hai_bà_trưng 190
-hà_nội 664
-chùa 37
-chùa_vua 4
-đại_cồ_việt 77
-đại_la 33
-đỗ_hành 29
-đỗ_ngọc_du 29
-đoàn_trần_nghiệp 33
-đội_cung 20
+bà triệu 27
+bạch đằng 29
+bạch mai 47
+bùi ngọc dương 29
+bùi thị xuân 35
+cảm hội 23
+cao đạt 10
+quận 25
+hà nội 6
+chùa 41
+đại cồ việt 83
+đại la 33
+đỗ hành 29
+đỗ ngọc du 29
+đoàn trần nghiệp 33
+đội cung 20
 đống 28
-đồng_nhân 8
-dương_văn_bé 29
-giải_phóng 50
-hàn_thuyên 29
-hàng_chuối 1
-hàng 3
-trường_trinh 49
-đại_cồ 2
-trần_đại_nghĩa 33
-tạ_quang_bửu 2
-nguyễn_xiển 6
-lê_duẩn 18
-phạm_văn_đồng 4
-an_dương_vương 2
-hoàng_mai 6
-xuân 2
-giấy 6
-cầu_giấy 9
-xuân_thủy_cầu_giấy 2
+đồng nhân 8
+dương văn bé 29
+giải phóng 52
+hàn thuyên 29
+hàng 4
+trường trinh 50
+trần đại nghĩa 34
+tạ quang bửu 3
+nguyễn xiển 6
+lê duẩn 18
+phạm văn đồng 4
+an dương vương 2
+hoàng mai 3
+giấy 10
 trạch 10
-xã 33
-thượng_mỗ 8
-thượng_mỗ_đan 10
+xã 34
+thượng mỗ đan 18
 trạm 17
-thị_trấn 21
-đức_thượng 6
+thị trấn 21
+đức thượng 6
 ngắn 5
-nguyễn_trãi 46
-láng 43
-láng_đi 1
+nguyễn trãi 46
+láng 44
 đường 8
-trường 1
 gươm 1
 bờ 2
-lò_đúc 19
-lạc_trung 15
-thanh_nhàn 21
-trung_văn_đi 1
+lò đúc 19
+lạc trung 15
+thanh nhàn 21
+trung văn 3
 ngách 20
-quan_hoa 2
-ký_túc_xá 1
-trung_văn_chỉ 1
-chung_cư 31
-trung_văn_tới 1
-mỹ_đình 8
-kim_giang 2
-phúc_diễn 1
+quan hoa 2
+ký túc xá 1
+chung cư 28
+mỹ đình 8
+kim giang 2
+phúc diễn 1
 bưởi 2
 đền 1
-lê_trọng_tấn 2
-điện_biên_phủ 1
-trần_hữu_dực 1
-nguyễn_văn_linh 1
+lê trọng tấn 2
+điện biên phủ 1
+trần hữu dực 1
+nguyễn văn linh 1
 phường 1
 cường 1
-tố_hữu 1
+tố hữu 1
