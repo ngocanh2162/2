@@ -197,3 +197,4 @@ for j in range (len(ask_files)):
 for i in range (0, len(f1)):
     hauXuLy(f1[i][0], f1[i][1])
     writeListToTextFile(f1[i], open(dictionary_files[i], 'a',encoding="utf8"))
+    fvfv
