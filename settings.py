@@ -20,7 +20,6 @@ for i in range (len(l)+1):
 for i in range (len(f)):
     f[i].append(list())
     f[i].append(list())
-    # f[i].append(list())
 
 v = []
 k = []

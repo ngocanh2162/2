@@ -1,9 +1,41 @@
-trường đại học 160
-trường trung học 528
-trường phổ 24
+trường đại học bách khoa 25
+trường đại học kinh tế 50
+trường đại học kỹ thuật 1
+trường đại học xây dựng 23
+trường đại học phương đông 11
+trường đại học dân lập phương 11
+trường đại học kinh doanh 36
+trường trung học phổ thông thăng long 46
+trường trung học phổ thông trần nhân 24
+trường trung học phổ thông hai bà trưng 1
+trường trung học phổ thông hồng hà 24
+trường trung học phổ thông hoàng diệu 24
+trường trung học phổ thông mai hắc đế 24
+trường trung học phổ thông vinschool 24
+trường phổ thông 24
+trường trung học cơ sở lê ngọc hân 24
+trường trung học cơ sở quỳnh mai 24
+trường trung học cơ sở tây sơn 24
+trường trung học cơ sở đoàn kết 23
+trường trung học cơ sở bán kết 1
+trường trung học cơ sở ngô quyền 24
+trường trung học cơ sở hà huy tập 24
+trường trung học cơ sở minh khai 24
+trường trung học cơ sở ngô gia tự 24
+trường trung học cơ sở tô hoàng 24
+trường trung học cơ sở thanh lương 23
+trường trung học cơ sở nguyễn phong sắc 24
+trường trung học cơ sở trưng nhị 24
+trường trung học cơ sở vĩnh tuy 24
+trường trung học cơ sở hai bà trưng 24
+trường trung học cơ sở vinschool 24
+trường trung học cơ sở thịnh liệt 2
+trường đại học ngoại thương 1
 học viện ngoại giao 2
-trường học viện 2
-trường mầm non 2
-trường hà châu phong đông 1
-trường tiểu học 1
+trường học viện an ninh 2
+trường mầm non vĩnh tuy 2
+trường đại học thủy lợi 2
+trường đại học vinh 1
+trường hà châu phong đông hà nội 1
+trường tiểu học chu văn an linh 1
 học viện hậu cần 1

@@ -62,7 +62,7 @@ xuân la 23
 yên phụ 20
 bưởi 19
 thụy khê 19
-hai bà trưng 1022
+hai bà trưng 987
 phương mai 5
 đống đa 15
 thanh xuân 17
@@ -83,7 +83,7 @@ quan hoa 3
 nghĩa tân 4
 hoàng hoa thám 9
 mai động 1
-minh khai 32
+minh khai 8
 liêm 1
 ô chợ 2
 gia thụy 2

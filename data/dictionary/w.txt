@@ -22,7 +22,6 @@ quận hoàn kiếm 2
 dương độ 14
 trống 14
 nam 22
-bách khoa 32
 vincom 45
 city towers 34
 thiền quang 9
@@ -31,49 +30,30 @@ mơ 14
 chợ giời 8
 tang lễ 21
 quốc phòng 23
-vĩnh tuy 39
+bách khoa 16
+vĩnh tuy 15
 cảng 23
 đen 24
 ruby plaza 15
-kinh tế 49
-kỹ thuật 26
+kỹ thuật 20
 công nghiệp 21
 đại học 53
 trường học 2
-xây dựng 19
-quốc dân 25
+xây dựng 4
+kinh tế 2
+quốc dân 13
 viện 42
-phương đông 17
-dân lập phương 6
-kinh doanh 37
-công nghệ 37
-phổ 145
-thông 191
-thăng long 24
-trần nhân 25
-hồng hà 24
-hoàng diệu 30
-mai hắc đế 31
-vinschool 48
-cơ sở 385
+đông 14
+kinh doanh 1
+công nghệ 29
+cơ sở 24
 nguyễn đình chiểu 41
-lê ngọc hân 24
-quỳnh mai 36
-tây sơn 28
-đoàn kết 23
-bán kết 1
-ngô quyền 26
-hà huy tập 24
-ngô gia tự 26
-tô hoàng 24
-thanh lương 23
-nguyễn phong sắc 24
-trưng nhị 25
 chùa quỳnh 12
+quỳnh 12
 vua 13
 mác 21
 chuối 4
-hồng mai 4
+mai 16
 hẻm 23
 tìm kiếm 1
 phố chùa 2
@@ -83,18 +63,20 @@ quậnhai 2
 bà trưng 2
 kfc 4
 ủy ban 2
-nhân dân 6
+nhân dân 2
 nhà thi đấu 2
 phú diễn 2
-phú lương hà đông 3
+ban nhân dân 2
 nguyễn khoái 2
 doãn kế 2
 thượng 2
 cầu giấy 1
 bãi 3
 time 5
-phúc 9
+tây sơn quang trung 2
+phúc 7
 đồng long biên 2
+hoàng 20
 tăng bí 4
 dương nội 5
 khu 23
@@ -102,7 +84,7 @@ tập thể 10
 kim liên 2
 dừa 3
 quốc gia 3
-đường 7
+đường 8
 phạm ngọc thạch 6
 nguyễn khiết 2
 cây xăng 4
@@ -110,15 +92,13 @@ an dương 3
 metro 3
 công chất 2
 diễn 3
-hoàng văn thái 3
-hoàng đạo 5
 thúy 4
 nghi tàm 5
-thịnh liệt 2
 ngụy như 3
 kon tum 3
 văn phú 2
 đặng văn ngữ 4
+ngô quyền 2
 mipec 2
 tân 5
 địa chỉ số 2
@@ -129,7 +109,6 @@ nguyễn ngọc nại 2
 chùa láng 1
 diễn bắc 2
 từ liêm 6
-an ninh 3
 rạp 2
 xiếc 2
 trung ương 4
@@ -144,7 +123,7 @@ thái hà 43
 văn hương 2
 công an 3
 ct2c 2
-trần chân 2
+trần chân 3
 hẹn 2
 tổ 6
 dương quảng hàm 3
@@ -153,7 +132,6 @@ lotte 2
 trần đại nghĩa địa chỉ 2
 chi nhánh 2
 bidv 2
-thủy lợi 2
 không quân số 3
 trương định 5
 vtc 2
@@ -172,25 +150,24 @@ nhà nhà 2
 phố lạc trung 4
 gốc 1
 khương trung 2
+nguyễn an ninh 1
 lê trọng 2
-tấn hà đông 2
 vũ tông 2
 phan 7
 garden 2
 đại mỗ 1
 lương thế vinh 1
 công hạ 2
+ngô gia tự 2
 hh2a 1
-linh 6
+linh 5
 đàm 5
 thạch bàn 1
 nguyễn ngọc vũ 2
-hoàng cầu 2
 hh1a 1
 phùng 1
 khoang 1
 kiến hưng 1
-hoàng quốc việt 2
 n5c 1
 cháy 1
 chữa cháy 1
@@ -200,7 +177,6 @@ nguyễn quý đức 1
 nguyễn hữu huân 1
 trần thái tông 1
 trung kính 2
-hoàng minh giám 1
 the vesta 1
 xốm 1
 công định 1
@@ -221,7 +197,6 @@ tuấn 1
 quốc hội 1
 quan nhân 2
 văn quán 1
-mai chí 1
 biên long biên 2
 miếu 1
 ngọc động 1
@@ -256,12 +231,10 @@ bính 1
 ỷ lan 1
 vũ xuân thiều 1
 ct 3
-đông ngạc 1
 lê văn lương 1
 hồng tiến 1
 an bình 1
 xa la 2
-tự trọng hà đông 1
 xuân diệu 2
 thăm 1
 khoai 1
@@ -275,7 +248,6 @@ việt vương 2
 văn thiêm 1
 lớp 1
 nguyễn đổng chi 1
-ecohome đông ngạc 1
 vũ trọng phụng 1
 võ thị sáu 1
 ngọc thụy 1
@@ -292,13 +264,13 @@ fpt 1
 quạt 1
 xanh 3
 bươu 1
+trưng nhị 1
 thế giới 1
 di động 1
 nguyễn tuân 1
 cảnh sát 1
 ngã 4
 hàm nghi 1
-hoàng mai qua 1
 phạm ngũ lão 1
 kim ngưu 3
 a6c 1
@@ -313,10 +285,8 @@ lão 1
 nguyễn chí thanh 1
 vinaconex 1
 kiên 1
-mai dịch 1
 nguyễn viết xuân 1
 tư 4
-nguyễn hoàng 1
 tôn võ chí công 1
 định công 1
 hh3a 1

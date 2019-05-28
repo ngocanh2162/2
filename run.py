@@ -82,8 +82,21 @@ class NLP2(object):
                         flag = False
                         if j in (0,1,7):  
                             str1 = ''.join(list[i+1])
+                            k = 2
+                        elif ((j == 6) and (i < len(list) - 2)):
+                            if (list[i+1 ]== 'trung_học') and (i < len(list) - 3):
+                                if list[i+2] == 'phổ': 
+                                    str1 = list[i] + '_' + list[i+1] + '_' + list[i+2] + '_' + list[i+3] + '_' + list[i+4]
+                                    k = 5
+                                else:
+                                    str1 = list[i] + '_' + list[i+1] + '_' + list[i+2] + '_' + list[i+3]
+                                    k = 4
+                            else:
+                                str1 = list[i] + '_' + list[i+1] + '_' + list[i+2] 
+                                k = 3
                         else:
                             str1 = list[i] + '_' + list[i+1]
+                            k=2
                         if str1 not in f[j][0]:
                             f[j][0].insert(len(f[j][0]), str1)
                             f[j][1].insert(len(f[j][0]), 1)
@@ -100,7 +113,7 @@ class NLP2(object):
                 if flag == False:
                     break
             if flag == False:
-                i += 2
+                    i += k
             else:
                 for k in range (l_leng):
                     if list[i] in f[k][0]:

@@ -3589,7 +3589,7 @@ ngõ 134/10 2/9 Kim Giang
 địa chỉ của 64d ngọn núi Trúc
 địa chỉ của trường Đại học Kinh tế Quốc dân
 địa chỉ Đại học Xây dựng
-trường Đại học Thương nằm ở chỗ nào
+trường Đại học Ngoại Thương nằm ở chỗ nào
 Học viện Ngoại Giao nằm ở đâu
 Vị trí của trường Học viện An ninh nhân dân
 địa chỉ rạp xiếc trung ương
@@ -3660,3 +3660,7 @@ Bảo tàng Phòng không Không quân số bao nhiêu Trương Định
 trà Phúc Long ở đâu Cầu Giấy
 Đại học Sư phạm số bao nhiêu đường Xuân Thủy Cầu Giấy
 Đại học Kiến trúc nằm ở đâu Quận Hà Đông
+thành phố Vinh tỉnh nghệ an
+đi từ đây đến trường đại học Vinh bằng xe bus số mấy
+Chỉ đường từ huyện Nam Đàn sang tỉnh Hà Tĩnh
+đường bay từ Vinh đi Hà Nội
