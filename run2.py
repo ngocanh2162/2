@@ -87,9 +87,9 @@ class NLP2(object):
                             str1 = list[i] + '_' + list[i+1]
                             temp =2
                         if str1 not in f[j][0]:
-                            f[j][0].insert(len(f[j][0]), str1)
-                            f[j][1].insert(len(f[j][0]), 1)
-                            # f[j][2].insert(len(f[j][0]), list[i])
+                            if ViPosTagger.postagging(str1)[1] != ['M']:
+                                f[j][0].insert(len(f[j][0]), str1)
+                                f[j][1].insert(len(f[j][0]), 1)
                         else:
                             f[j][1][f[j][0].index(str1)] += 1
                         if list[i+1] in f[l_leng]:
@@ -146,16 +146,17 @@ class NLP2(object):
                             flag = False
                             break
                     if flag == True:
-                        f[l_leng][0].insert(len(f[l_leng][0]), list[i])
-                        f[l_leng][1].insert(len(f[l_leng][0]), 1)
+                        if ViPosTagger.postagging(list[i])[1] != ['M']:
+                            f[l_leng][0].insert(len(f[l_leng][0]), list[i])
+                            f[l_leng][1].insert(len(f[l_leng][0]), 1)
         return f
             
 def writeListToTextFile(list, file):
     sum = 0
     for i in range(len(list[0])):
         if (list[1][i] != 0):
-            file.write(str(list[0][i]).replace("_"," ")+ ' ' + str(list[1][i]) +'\n')
-            sum += list[1][i]
+                file.write(str(list[0][i]).replace("_"," ")+ ' ' + str(list[1][i]) +'\n')
+                sum += list[1][i]
     file.write(str(sum))
             
 def fileInFolder(folderPath, fileList):

@@ -78,7 +78,6 @@ công chất 2
 diễn 3
 hoàng đạo 6
 thúy 4
-ngụy như 3
 kon tum 3
 đặng văn ngữ 4
 ngô quyền 2
@@ -98,7 +97,6 @@ aeon 2
 mall 2
 hồ chí minh 2
 ct2c 2
-tổ 6
 lotte 2
 trần đại nghĩa địa chỉ 2
 chi nhánh 2
@@ -118,9 +116,8 @@ tớilê 1
 duẩn 1
 trinh 1
 nhà nhà 2
-85 1
 gốc 1
-phan 7
+phan 5
 garden 2
 đại mỗ 1
 lương thế vinh 1
@@ -135,26 +132,22 @@ kiến hưng 1
 n5c 1
 cháy 1
 chữa cháy 1
-vũ hữu 1
 văn chương 1
 nguyễn quý đức 1
 b14 1
-trần thái tông 1
 hoàng minh giám 1
 the vesta 1
 xốm 1
 công định 1
 cầu vượt 1
 lĩnh 1
-189 1
 p1708 1
 n4c 1
 lương thế 1
 xe buýt 5
-lê thành nghị 1
-âu cơ 1
 tân ấp 2
 mạc 1
+thái tổ 1
 võng thị 1
 tuấn 1
 quốc hội 1
@@ -176,7 +169,6 @@ kim văn kim lũ 2
 dân phố 2
 phúc lý 1
 mành 1
-đầm trấu 1
 phương canh 1
 tó 2
 vẽ 1
@@ -189,14 +181,12 @@ ct3 2
 lê trọng tấn 2
 lê văn lương 1
 xa la 2
-láng hạ 1
 thăm 1
 khoai 1
 lê hồng phong 1
 thanh trì 1
 lêthanh nghị 1
 phú quý 1
-ngọc thụy 1
 thanh bình 1
 vôi 1
 shop 4
@@ -208,18 +198,17 @@ xanh 3
 thế giới 1
 di động 1
 nguyễn tuân 1
+tổng hợp 1
 cảnh sát 1
 ngã 4
 hàm nghi 1
 hoàng mai qua 1
-phạm ngũ lão 1
 a6c 1
 ct12a 1
 đại kim 1
 canh 1
 royal 1
 city r5b 1
-dốc thọ 1
 lão 1
 vinaconex 1
 kiên 1
@@ -230,7 +219,6 @@ nguyễn hoàng 1
 tôn võ chí công 1
 định công 1
 hh3a 1
-khương hạ 1
 nguyễn cơ thạch 1
 the light 1
-1459
+1438

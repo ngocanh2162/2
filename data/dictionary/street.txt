@@ -1,14 +1,14 @@
 bà triệu 27
 bạch đằng 44
 bạch mai 80
-bùi ngọc dương 29
+bùi ngọc dương 30
 bùi thị xuân 37
 cảm hội 23
 cao đạt 10
 quận 25
 hà nội 6
 chùa 95
-đại cồ việt 139
+đại cồ việt 141
 đại la 36
 đỗ hành 29
 đỗ ngọc du 29
@@ -17,14 +17,14 @@ chùa 95
 đống 28
 đồng nhân 8
 dương văn bé 29
-giải phóng 91
+giải phóng 92
 hàn thuyên 29
-hàng 27
-ngách 83
+hàng 28
+ngách 87
 hồng mai 5
-đường 98
+đường 100
 trường trinh 94
-trần đại nghĩa 92
+trần đại nghĩa 93
 quang trung 3
 nguyễn ngọc vũ 8
 chung cư 4
@@ -42,13 +42,13 @@ minh khai 11
 cự lộc 6
 xã 39
 tây sơn 12
-hoàng 33
+hoàng 35
 tam trinh 10
 nguyễn khiết 4
 tạ quang bửu 3
 an dương 8
 khâm thiên 4
-mai hắc đế 5
+mai hắc đế 6
 nguyễn xiển 13
 nguyễn khang 4
 giáp bát 6
@@ -62,11 +62,11 @@ nguyễn an ninh 6
 trần cung 10
 lê duẩn 19
 đỗ quang 4
-tập thể 1
+tập thể 2
 phương mai 2
 phạm văn đồng 5
 khương đình 8
-tân 8
+tân 9
 huế 12
 nguyễn huy tưởng 6
 hồ tùng mậu 10
@@ -80,17 +80,17 @@ văn phú 4
 vĩnh tuy 19
 núi 5
 trần quý kiên 4
-thái hà 58
-láng 54
+thái hà 59
+láng 56
 văn hương 4
 công thượng 4
-hẻm 35
+hẻm 36
 trần chân 4
 hai bà trưng 5
 hẹn 4
 giấy 12
 dịch vọng 3
-phường 3
+phường 5
 nam đàn 1
 trạch 16
 thượng mỗ đan 18
@@ -98,17 +98,12 @@ trạm 17
 thị trấn 21
 đức thượng 6
 ngắn 5
-1 18
 tôn thất tùng 3
 gươm 1
 bờ 2
-lò đúc 33
-lạc trung 42
-2 32
-8 9
+lò đúc 34
+lạc trung 43
 thanh nhàn 38
-35 2
-7 3
 thụy khuê 5
 mỹ đình 11
 xuân la 3
@@ -119,14 +114,18 @@ phúc 6
 ngô gia tự 4
 linh giang 2
 quan hoa 3
-75 3
 ký túc xá 1
+vũ hữu 2
+c19 2
 nguyễn hữu huân 2
+trần thái tông 2
 đại học 55
 trung kính 3
 thùy lĩnh 2
 an sơn 2
+lê thành nghị 2
 yên phụ 1
+âu cơ 2
 quan nhân 4
 miếu 2
 khu đô thị 1
@@ -135,13 +134,18 @@ b4 2
 phạm ngọc thạch 7
 gia quất 2
 yên lãng 4
+tổ 6
 dương đình nghệ 4
 trần duy hưng 4
+ngụy như 4
+đầm trấu 2
+c1 2
 yên ninh 2
 tôn đức thắng 3
 bưởi 2
 đền 1
 vũ xuân thiều 2
+phan bá vành sang 2
 hồng tiến 1
 điện biên phủ 1
 tự trọng hà đông 2
@@ -153,9 +157,12 @@ lớp 2
 công hạ 3
 trịnh hoài đức 2
 nguyễn đổng chi 2
+phan bá vành 2
 vũ tông 3
-nguyễn chí thanh 3
+nguyễn chí thanh 4
 võ thị sáu 2
+k2 2
+ngọc thụy 2
 khương trung 3
 trần hữu dực 1
 hoàn kiếm 1
@@ -168,14 +175,17 @@ bươu 2
 nguyễn văn linh 1
 trưng nhị 2
 khuyến lương 2
+phạm ngũ lão 2
 khuất duy tiến 2
 lê đức thọ 2
 xuân đỉnh 2
 lý nam đế 2
+dốc thọ 2
 cường 1
 bến xe 1
+khương hạ 2
 trần quốc toản 2
 huỳnh thúc kháng 2
 tố hữu 1
 ngọc ánh 2
-2453
+2450
