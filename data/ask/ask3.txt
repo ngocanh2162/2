@@ -365,7 +365,7 @@ từ ngõ 24 Thanh Nhàn đến số 10 ngõ 52 Hàng Bài
 đi từ số 28 phố Thanh Nhàn quận Hai Bà Trưng đến 54 phố Hàng Bài quận Hoàn Kiếm
 19 Thanh Nhàn sang 65 Hàng Bài
 57 Thanh Nhàn đến Hàng Bài
-Gốc Đề Minh Khai đi trường cấp 2 Liên Hà Châu Phong Đông Anh Hà Nội
+Gốc Đề Minh Khai đi trường trung học Liên Hà Châu Phong Đông Anh Hà Nội
 đình thôn đi Hoàng Hoa Thám
 Khương Trung đi chung cư Chelsea Park
 214 Nguyễn Xiển đi 138 Thụy Khuê
@@ -807,3 +807,4 @@ Số nhà 66 ngõ 29 Khương Hạ Thanh Xuân Hà Nội đi đến 116 giải p
 22A Trần Quốc Toản đến 100 Chùa Bộc
 99 trên 46/60 Huỳnh Thúc Kháng tới tòa nhà ct2 The Light đường Tố Hữu
 Thành công đi bệnh viện Nội tiết Trung ương
+456 Ngọc Ánh

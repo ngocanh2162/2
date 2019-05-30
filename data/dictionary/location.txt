@@ -1,5 +1,4 @@
-bệnh viện hà nội 3
-bệnh viện quận 8
+bệnh viện 108 20
 bệnh viện quân đội 4
 bệnh viện hữu nghị 21
 khu đô thị đầm trấu 24
@@ -11,12 +10,12 @@ tòa kangnam 3
 tòa lotte 3
 nghĩa trang mai dịch 2
 tòa vinaconex 2
-tập thể văn phú 2
+tập thể 9 2
 tòa nhà pvi 2
 bệnh viện việt đức 2
 bệnh viện bạch mai 2
 bến xe mỹ đình 6
-khu đô thị hh 2
+khu đô thị hh2 2
 khu đô thị vinaconex 2
 khách sạn melia 2
 khách sạn jw 2
@@ -42,23 +41,25 @@ khu đô thị kim văn kim lũ 1
 chung cư hh2a 1
 chung cư tân hoàng minh 1
 chung cư xuân phương 2
-chung cư hoàng đạo thúy 1
-khu đô thị giáp bát 1
+chung cư 4 1
+khu đô thị 99b 1
 chung cư xuân mai complex 1
 chung cư ct2a 1
 khu đô thị đại thanh 1
-tòa chung cư 1
+tòa a8 1
+chung cư an bình 1
 chung cư bắc 1
-tập thể lê hồng phong 1
+tập thể 13 1
 tập thể biến thế 1
 khu đô thị văn quán 1
 tòa group 1
 công ty an phát 1
+bệnh viện 103 1
 bến xe giáp bát 1
 khu đô thị trung văn 1
-chung cư hh 1
+chung cư hh2 1
 tòa đại kim 1
 khu đô thị văn phú 1
-tòa ct 1
+tòa ct2 1
 bệnh viện nội tiết 1
-160
+171

@@ -57,17 +57,6 @@ class NLP2(object):
     def __init__(self, list1 = []):
         self.list1 = list1
 
-    # def countWord(self):
-    #     v1 = settings.v
-    #     k1 = settings.k
-    #     text = self.list1
-    #     for j in range(len(text)):
-    #         if text[j] in v1:
-    #             k1[v1.index(text[j])] += 1
-    #         else:
-    #             v1.insert(len(v1), text[j])
-    #             k1.insert(len(k1), 1)
-
     def builDictionary(self):
         list = self.list1
         i = 0
@@ -82,21 +71,21 @@ class NLP2(object):
                         flag = False
                         if j in (0,1,7):  
                             str1 = ''.join(list[i+1])
-                            k = 2
+                            temp = 2
                         elif ((j == 6) and (i < len(list) - 2)):
                             if (list[i+1 ]== 'trung_học') and (i < len(list) - 3):
                                 if list[i+2] == 'phổ': 
                                     str1 = list[i] + '_' + list[i+1] + '_' + list[i+2] + '_' + list[i+3] + '_' + list[i+4]
-                                    k = 5
+                                    temp = 5
                                 else:
                                     str1 = list[i] + '_' + list[i+1] + '_' + list[i+2] + '_' + list[i+3]
-                                    k = 4
+                                    temp = 4
                             else:
                                 str1 = list[i] + '_' + list[i+1] + '_' + list[i+2] 
-                                k = 3
+                                temp = 3
                         else:
                             str1 = list[i] + '_' + list[i+1]
-                            k=2
+                            temp=2
                         if str1 not in f[j][0]:
                             f[j][0].insert(len(f[j][0]), str1)
                             f[j][1].insert(len(f[j][0]), 1)
@@ -113,7 +102,7 @@ class NLP2(object):
                 if flag == False:
                     break
             if flag == False:
-                    i += k
+                    i += temp
             else:
                 for k in range (l_leng):
                     if list[i] in f[k][0]:
@@ -145,6 +134,23 @@ class NLP2(object):
                         f[l_leng][1].insert(len(f[l_leng][0]), 1)
         return f
 
+# class NLP3(object):
+#     def __init__(self, list1 = []):
+#         self.list1 = list1
+
+#     def sinhTuDong(self):
+#         list = self.list1
+#         i = 0
+#         l = settings.l
+#         f = settings.f
+#         v = settings.v
+#         k = settings.k
+#         l_leng = len(l)
+#         while i < len(list):
+            
+
+#             else:
+            
 def writeListToTextFile(list, file):
     sum = 0
     for i in range(len(list[0])):

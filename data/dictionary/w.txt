@@ -5,9 +5,9 @@ mỹ lộc 96
 đan phượng 31
 phượng hà nội 6
 trôi 94
-hoài đức 124
+hoài đức 123
 yên chương 16
-yên 18
+yên 15
 chương mỹ 36
 phú nghĩa chương 4
 chúc sơn chương 3
@@ -16,12 +16,12 @@ thanh oai 19
 cấn 16
 đào 15
 bồ 13
-bạc 19
+bạc 14
 gai 14
 quận hoàn kiếm 2
 dương độ 14
 trống 14
-nam 22
+nam 17
 vincom 45
 city towers 34
 thiền quang 9
@@ -31,33 +31,27 @@ chợ giời 8
 tang lễ 21
 quốc phòng 23
 bách khoa 16
-vĩnh tuy 15
 cảng 23
 đen 24
 ruby plaza 15
 kỹ thuật 20
 công nghiệp 21
-đại học 53
 trường học 2
 xây dựng 4
 kinh tế 2
 quốc dân 13
-viện 42
-đông 14
+viện 40
+đông 13
 kinh doanh 1
 công nghệ 29
 cơ sở 24
 nguyễn đình chiểu 41
 chùa quỳnh 12
-quỳnh 12
 vua 13
 mác 21
 chuối 4
-mai 16
-hẻm 23
 tìm kiếm 1
-phố chùa 2
-bộc 4
+bộc 3
 việt 2
 quậnhai 2
 bà trưng 2
@@ -65,47 +59,36 @@ kfc 4
 ủy ban 2
 nhân dân 2
 nhà thi đấu 2
-phú diễn 2
 ban nhân dân 2
 nguyễn khoái 2
-doãn kế 2
 thượng 2
 cầu giấy 1
 bãi 3
 time 5
 tây sơn quang trung 2
-phúc 7
 đồng long biên 2
-hoàng 20
 tăng bí 4
 dương nội 5
-khu 23
+khu 18
 dừa 3
 quốc gia 3
-đường 8
-phạm ngọc thạch 6
-nguyễn khiết 2
 cây xăng 4
-an dương 3
 metro 3
 công chất 2
 diễn 3
+hoàng đạo 6
 thúy 4
-nghi tàm 5
 ngụy như 3
 kon tum 3
 đặng văn ngữ 4
 ngô quyền 2
 mipec 2
-tân 5
 địa chỉ số 2
-hồ tùng mậu 5
-chéo 2
-nguyễn văn cừ 3
-nguyễn ngọc nại 2
-chùa láng 1
+kiều mai phúc 2
 diễn bắc 2
-từ liêm 6
+từ liêm 7
+five star 2
+g4 2
 hệ thống 2
 huyết học 3
 truyền 2
@@ -114,50 +97,37 @@ trung ương 2
 aeon 2
 mall 2
 hồ chí minh 2
-thái hà 43
-văn hương 2
 ct2c 2
-trần chân 3
-hẹn 2
 tổ 6
-dương quảng hàm 3
-trần cung 3
 lotte 2
 trần đại nghĩa địa chỉ 2
 chi nhánh 2
 bidv 2
 không quân số 3
-trương định 5
 vtc 2
-tam trinh 5
 trà 3
+phúc long 2
 sư phạm 2
 kiến trúc 2
+đường bay 1
 phượng sao 1
 kiểu 16
-tôn thất tùng 2
 km 1
 thanh xuân sang 1
 tớilê 1
 duẩn 1
+trinh 1
 nhà nhà 2
-phố lạc trung 4
+85 1
 gốc 1
-khương trung 2
-nguyễn an ninh 1
-lê trọng 2
-vũ tông 2
 phan 7
 garden 2
 đại mỗ 1
 lương thế vinh 1
-công hạ 2
-ngô gia tự 2
 hh2a 1
-linh 5
+linh 4
 đàm 5
 thạch bàn 1
-nguyễn ngọc vũ 2
 hh1a 1
 phùng 1
 khoang 1
@@ -168,16 +138,16 @@ chữa cháy 1
 vũ hữu 1
 văn chương 1
 nguyễn quý đức 1
-nguyễn hữu huân 1
+b14 1
 trần thái tông 1
-trung kính 2
+hoàng minh giám 1
 the vesta 1
 xốm 1
 công định 1
 cầu vượt 1
-thùy lĩnh 1
 lĩnh 1
-an sơn 1
+189 1
+p1708 1
 n4c 1
 lương thế 1
 xe buýt 5
@@ -185,107 +155,82 @@ lê thành nghị 1
 âu cơ 1
 tân ấp 2
 mạc 1
-bùi xương trạch 1
 võng thị 1
 tuấn 1
 quốc hội 1
-quan nhân 2
 văn quán 1
+mai chí 1
 biên long biên 2
-miếu 1
 ngọc động 1
 công an 1
 nguyễn khánh toàn 1
 nguyễn thái học 1
 thợ nhuộm 1
 gia lâm 4
-giang 4
+giang 3
 văn minh 1
 trần hữu dục 1
-lạc long quân 3
+a8 1
 kiốt 1
-b4 1
 kim văn kim lũ 2
-gia quất 1
-hàng tre 1
-cự lộc 1
 dân phố 2
-dương đình nghệ 2
-trần duy hưng 2
+phúc lý 1
 mành 1
 đầm trấu 1
-trần bình 2
-cổ nhuế 1
 phương canh 1
-tôn đức thắng 2
 tó 2
 vẽ 1
 lãm 1
+phúc tân hoàn kiếm 1
 triều khúc 3
 bính 1
 ỷ lan 1
-vũ xuân thiều 1
-ct 3
+ct3 2
+lê trọng tấn 2
 lê văn lương 1
-hồng tiến 1
-an bình 1
 xa la 2
-xuân diệu 2
+láng hạ 1
 thăm 1
 khoai 1
+lê hồng phong 1
 thanh trì 1
 lêthanh nghị 1
 phú quý 1
-triệu 2
-việt vương 2
-văn thiêm 1
-lớp 1
-nguyễn đổng chi 1
-vũ trọng phụng 1
-võ thị sáu 1
 ngọc thụy 1
 thanh bình 1
 vôi 1
-nguyễn chính 1
 shop 4
-khánh hội 1
-đê la thành 1
 điền định công 1
-phùng khoang 1
-huế 1
+tân cầu 1
 fpt 1
 quạt 1
 xanh 3
-bươu 1
-trưng nhị 1
 thế giới 1
 di động 1
 nguyễn tuân 1
 cảnh sát 1
 ngã 4
 hàm nghi 1
+hoàng mai qua 1
 phạm ngũ lão 1
-kim ngưu 3
 a6c 1
-lê đức thọ 1
+ct12a 1
 đại kim 1
 canh 1
 royal 1
 city r5b 1
-xuân đỉnh 1
 dốc thọ 1
 lão 1
-nguyễn chí thanh 1
 vinaconex 1
 kiên 1
+mai dịch 1
 nguyễn viết xuân 1
-tư 4
+tư 3
+nguyễn hoàng 1
 tôn võ chí công 1
 định công 1
 hh3a 1
 khương hạ 1
 nguyễn cơ thạch 1
-trần quốc toản 1
-huỳnh thúc kháng 1
 the light 1
-1784
+1459
