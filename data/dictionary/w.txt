@@ -80,8 +80,6 @@ hoàng 20
 tăng bí 4
 dương nội 5
 khu 23
-tập thể 10
-kim liên 2
 dừa 3
 quốc gia 3
 đường 8
@@ -96,7 +94,6 @@ thúy 4
 nghi tàm 5
 ngụy như 3
 kon tum 3
-văn phú 2
 đặng văn ngữ 4
 ngô quyền 2
 mipec 2
@@ -109,19 +106,16 @@ nguyễn ngọc nại 2
 chùa láng 1
 diễn bắc 2
 từ liêm 6
-rạp 2
-xiếc 2
-trung ương 4
 hệ thống 2
 huyết học 3
 truyền 2
 máu 2
+trung ương 2
 aeon 2
 mall 2
 hồ chí minh 2
 thái hà 43
 văn hương 2
-công an 3
 ct2c 2
 trần chân 3
 hẹn 2
@@ -200,6 +194,7 @@ văn quán 1
 biên long biên 2
 miếu 1
 ngọc động 1
+công an 1
 nguyễn khánh toàn 1
 nguyễn thái học 1
 thợ nhuộm 1
@@ -238,8 +233,6 @@ xa la 2
 xuân diệu 2
 thăm 1
 khoai 1
-lê hồng phong 1
-biến thế 1
 thanh trì 1
 lêthanh nghị 1
 phú quý 1
@@ -295,3 +288,4 @@ nguyễn cơ thạch 1
 trần quốc toản 1
 huỳnh thúc kháng 1
 the light 1
+1784

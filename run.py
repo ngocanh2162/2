@@ -146,9 +146,12 @@ class NLP2(object):
         return f
 
 def writeListToTextFile(list, file):
+    sum = 0
     for i in range(len(list[0])):
         if list[1][i] != 0:
             file.write(str(list[0][i]).replace("_"," ")+ ' ' + str(list[1][i]) +'\n')
+            sum += list[1][i]
+    file.write(str(sum))
             
 def fileInFolder(folderPath, fileList):
     # r=root, d=directories, f = dictionary_files
@@ -210,4 +213,3 @@ for j in range (len(ask_files)):
 for i in range (0, len(f1)):
     hauXuLy(f1[i][0], f1[i][1])
     writeListToTextFile(f1[i], open(dictionary_files[i], 'a',encoding="utf8"))
-    
